@@ -1,0 +1,62 @@
+{
+  "dealerships":[
+    {
+      "id":"claudioAuto",
+      "name":"Claudio Auto",
+      "description":"Claudio Auto - New & quality JDM sales.",
+      "stock": 20,
+      "associatedOrganization":"",
+      "preview":"belasco_auto_dealership.jpg",
+      "doors":[["claudioAuto_area","claudioAuto_icon", 30]],
+      "parkingSpotNames":["claudioAuto1","claudioAuto2"],
+      "activityAcceptProps":[
+        {"keyLabel":"New & Used Vehicles"}
+      ],
+
+      "filter":{
+        "whiteList":{"Type":["Car"]},
+ 	       "blackList":{"Type":["Trailer"],"Body Style":["ATV","Buggy"]}
+      },
+
+      "subFilters": [
+        {
+          "probability":2,
+          "whiteList":{"Years": {"min":2020}, "Mileage":{"min":9000, "max":70000}, "Config Type":["Factory"],"Value":{"max":65000}}
+        },
+        {
+          "probability":3,
+          "whiteList":{"Years": {"min":2014, "max":2020}, "Mileage":{"min":15000000, "max":70000000}, "Config Type":["Factory"],"Value":{"max":65000}}
+        },
+        {
+          "probability":2,
+          "whiteList":{"Years": {"min":2007, "max":2015}, "Mileage":{"min":5000000000, "max":16500000000}, "Config Type":["Factory"],"Value":{"max":65000}}
+        }
+      ],
+
+      "fees": 749,
+      "containsStarterVehicles": false,
+      "testDrive" : {
+        "abandonFees" : 100,
+        "timeLimit" : 120,
+        "licencePlate" : "belasco"
+      },
+      "iconOffsetHeight":1.0,
+      "iconLift":0.25,
+      "playModeIconName":"poi_entrance_round"
+    }
+  ],
+  "privateSellers":[
+    {
+      "id": "private",
+      "name": "Private",
+      "stock": 10,
+      "filter": {
+        "whiteList":{"Mileage":{"min":25000000, "max":380000000}, "Value":{"min":450}},
+        "blackList":{"Type":["Trailer", "Semi Truck"]}
+      }
+    }
+  ]
+}
+
+
+

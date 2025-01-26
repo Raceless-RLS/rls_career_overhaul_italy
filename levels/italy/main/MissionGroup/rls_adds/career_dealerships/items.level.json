@@ -1,0 +1,2 @@
+{"name":"claudioAuto_area","class":"BeamNGGameplayArea","__parent":"career_dealerships","position":[-1118.05322,936.844482,384.982819],"rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881],"scale":[1,1.29851007,1.49128199]}
+{"name":"claudioAuto_icon","class":"BeamNGPointOfInterest","__parent":"career_dealerships","position":[-1118.14417,936.893738,385.430634],"rotationMatrix":[0.982302547,-0.18730104,-3.25962901e-09,0.18675828,0.979456127,-0.0760729909,0.0142485518,0.0747267008,0.997102261]}

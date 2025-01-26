@@ -1,0 +1,36 @@
+{
+  "garages":[
+    {
+      "id":"carlinoGarage",
+      "name":"Carlino Garage",
+      "description":"This is the starter garage, humble beginnings.",
+      "preview":"garage_servicestation.jpg",
+      "zoneNames":["carlinoGarage"],
+      "parkingSpotNames":["carlino_parking1", "carlino_parking2" , "carlino_parking3"],
+      "icon":"poi_garage_2_round",
+      "tags":["truck"],
+      "defaultPrice": 0,
+      "capacity": 2
+    }
+  ],
+  "computers":[
+
+    {
+      "id":"carlinoGarageComputer_area",
+      "garageId":"carlinoGarage",
+      "name":"Carlino Garage",
+      "description":"ui.career.computer.bigmapLabel.garage",
+      "preview":"commercialGarageComputer2.jpg",
+      "doors":[["carlinoGarageComputer_area", "carlinoGarageComputer_icon"]],
+      "screens":["commercialGarageComputer_screen_2"],
+      "functions": {"painting":true, "tuning":true, "vehicleInventory":true, "vehicleShop":true, "partShop":true, "partInventory":true, "insurancePolicies":true, "sleep": true},
+      "activityAcceptProps":[
+        {"keyLabel":"Vehicle & Parts Management"},
+        {"keyLabel":"Vehicle & Parts Shopping"}
+      ],
+      "iconOffsetHeight":0.24,
+      "iconLift":0.24,
+      "icon":"poi_laptop_round"
+    }
+  ]
+}

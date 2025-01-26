@@ -1,0 +1,2 @@
+{"name":"carlinoGarageComputer_area","class":"BeamNGGameplayArea","__parent":"player_homes","position":[758.053101,404.310181,179.423843],"rotationMatrix":[-0.695300221,-0.717990935,0.0323604718,0.718660653,-0.69396019,0.0441208966,-0.00922153052,0.0539334528,0.998501956],"scale":[1,1.29851007,1.49128199]}
+{"name":"carlinoGarageComputer_icon","class":"BeamNGPointOfInterest","__parent":"player_homes","position":[757.48999,405.75351,179.871658],"rotationMatrix":[-0.799999833,-0.599999905,0,0.598261237,-0.79768163,-0.0760730058,0.0456437618,-0.0608583093,0.997102082]}
