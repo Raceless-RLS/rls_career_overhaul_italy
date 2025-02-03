@@ -1,36 +1,174 @@
 {
-  "garages":[
+  "garages": [
     {
-      "id":"carlinoGarage",
-      "name":"Carlino Garage",
-      "description":"This is the starter garage, humble beginnings.",
-      "preview":"garage_servicestation.jpg",
-      "zoneNames":["carlinoGarage"],
-      "parkingSpotNames":["carlino_parking1", "carlino_parking2" , "carlino_parking3"],
-      "icon":"poi_garage_2_round",
-      "tags":["truck"],
+      "id": "carlinoGarage",
+      "name": "Carlino Garage",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "carlinoGarage"
+      ],
+      "parkingSpotNames": [
+        "carlino_parking1",
+        "carlino_parking2",
+        "carlino_parking3"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
       "defaultPrice": 0,
       "capacity": 2
     }
   ],
-  "computers":[
-
+  "computers": [
     {
-      "id":"carlinoGarageComputer_area",
-      "garageId":"carlinoGarage",
-      "name":"Carlino Garage",
-      "description":"ui.career.computer.bigmapLabel.garage",
-      "preview":"commercialGarageComputer2.jpg",
-      "doors":[["carlinoGarageComputer_area", "carlinoGarageComputer_icon"]],
-      "screens":["commercialGarageComputer_screen_2"],
-      "functions": {"painting":true, "tuning":true, "vehicleInventory":true, "vehicleShop":true, "partShop":true, "partInventory":true, "insurancePolicies":true, "sleep": true},
-      "activityAcceptProps":[
-        {"keyLabel":"Vehicle & Parts Management"},
-        {"keyLabel":"Vehicle & Parts Shopping"}
+      "id": "carlinoGarageComputer_area",
+      "garageId": "carlinoGarage",
+      "name": "Carlino Garage",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "carlinoGarageComputer_area",
+          "carlinoGarageComputer_icon"
+        ]
       ],
-      "iconOffsetHeight":0.24,
-      "iconLift":0.24,
-      "icon":"poi_laptop_round"
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    }
+  ],
+  "gasStations": [
+    {
+      "id": "trilobite_garage",
+      "name": "levels.west_coast_usa.gasStationPoints.trilobite_garage.title",
+      "description": "levels.west_coast_usa.gasStationPoints.trilobite_garage.description",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_mountainback_pump_area_1",
+          "fuel_apex_mountainback_pump_icon_1"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
     }
   ]
 }
