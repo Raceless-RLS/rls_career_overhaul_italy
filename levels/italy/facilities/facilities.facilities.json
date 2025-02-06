@@ -62,9 +62,9 @@
   ],
   "gasStations": [
     {
-      "id": "trilobite_garage",
-      "name": "levels.west_coast_usa.gasStationPoints.trilobite_garage.title",
-      "description": "levels.west_coast_usa.gasStationPoints.trilobite_garage.description",
+      "id": "apex_mountainback_garage",
+      "name": "Apex Mountain Station",
+      "description": "Apex Mountain Station",
       "preview": "fuel_trilobite_garage.jpg",
       "energyTypes": [
         "gasoline",
@@ -75,6 +75,10 @@
         [
           "fuel_apex_mountainback_pump_area_1",
           "fuel_apex_mountainback_pump_icon_1"
+        ],
+        [
+          "fuel_apex_mountainback_pump_area_2",
+          "fuel_apex_mountainback_pump_icon_2"
         ]
       ],
       "prices": {
@@ -167,6 +171,840 @@
               "trilobite_garage_sign_B4_4"
             ]
           ]
+        }
+      }
+    },
+    {
+      "id": "apex_norte_garage",
+      "name": "Apex norte Station",
+      "description": "Apex norte Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_norte_pump_area_1",
+          "fuel_apex_norte_pump_icon_1"
+        ],
+        [
+          "fuel_apex_norte_pump_area_2",
+          "fuel_apex_norte_pump_icon_2"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_lucera_garage",
+      "name": "Apex Lucera Station",
+      "description": "Apex Lucera Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_Lucera_pump_area_1",
+          "fuel_apex_Lucera_pump_icon_1"
+        ],
+        [
+          "fuel_apex_Lucera_pump_area_2",
+          "fuel_apex_Lucera_pump_icon_2"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_norte_harbor_garage",
+      "name": "Apex norte_harbor Station",
+      "description": "Apex norte_harbor Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_norte_harbor_pump_area_1",
+          "fuel_apex_norte_harbor_pump_icon_1"
+        ],
+        [
+          "fuel_apex_norte_harbor_pump_area_2",
+          "fuel_apex_norte_harbor_pump_icon_2"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_fastello_garage",
+      "name": "Apex fastello Station",
+      "description": "Apex fastello Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_fastello_pump_area_1",
+          "fuel_apex_fastello_pump_icon_1"
+        ],
+        [
+          "fuel_apex_fastello_pump_area_2",
+          "fuel_apex_fastello_pump_icon_2"
+        ],
+        [
+          "fuel_apex_fastello_pump_area_3",
+          "fuel_apex_fastello_pump_icon_3"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_crossroads_garage",
+      "name": "Apex crossroads Station",
+      "description": "Apex crossroads Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_crossroads_pump_area_1",
+          "fuel_apex_crossroads_pump_icon_1"
+        ],
+        [
+          "fuel_apex_crossroads_pump_area_2",
+          "fuel_apex_crossroads_pump_icon_2"
+        ],
+        [
+          "fuel_apex_crossroads_pump_area_3",
+          "fuel_apex_crossroads_pump_icon_3"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_castelletto_garage",
+      "name": "Apex castelletto Station",
+      "description": "Apex castelletto Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_castelletto_pump_area_1",
+          "fuel_apex_castelletto_pump_icon_1"
+        ],
+        [
+          "fuel_apex_castelletto_pump_area_2",
+          "fuel_apex_castelletto_pump_icon_2"
+        ],
+        [
+          "fuel_apex_castelletto_pump_area_3",
+          "fuel_apex_castelletto_pump_icon_3"
+        ]
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "apex_airport_garage",
+      "name": "Apex airport Station",
+      "description": "Apex airport Station",
+      "preview": "fuel_trilobite_garage.jpg",
+      "energyTypes": [
+        "gasoline",
+        "diesel",
+        "unknown"
+      ],
+      "pumps": [
+        [
+          "fuel_apex_airport_pump_area_1",
+          "fuel_apex_airport_pump_icon_1"
+        ],
+        [
+          "fuel_apex_airport_pump_area_2",
+          "fuel_apex_airport_pump_icon_2"
+        ],
+        [
+          "fuel_apex_airport_pump_area_3",
+          "fuel_apex_airport_pump_icon_3"
+        ]
+
+      ],
+      "prices": {
+        "gasoline": {
+          "priceBaseline": 1.37,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A1_1",
+              "trilobite_garage_sign_B1_1"
+            ],
+            [
+              "trilobite_garage_sign_A1_2",
+              "trilobite_garage_sign_B1_2"
+            ],
+            [
+              "trilobite_garage_sign_A1_3",
+              "trilobite_garage_sign_B1_3"
+            ],
+            [
+              "trilobite_garage_sign_A1_4",
+              "trilobite_garage_sign_B1_4"
+            ]
+          ]
+        },
+        "gasoline2": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A2_1",
+              "trilobite_garage_sign_B2_1"
+            ],
+            [
+              "trilobite_garage_sign_A2_2",
+              "trilobite_garage_sign_B2_2"
+            ],
+            [
+              "trilobite_garage_sign_A2_3",
+              "trilobite_garage_sign_B2_3"
+            ],
+            [
+              "trilobite_garage_sign_A2_4",
+              "trilobite_garage_sign_B2_4"
+            ]
+          ]
+        },
+        "gasoline3": {
+          "disabled": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A3_1",
+              "trilobite_garage_sign_B3_1"
+            ],
+            [
+              "trilobite_garage_sign_A3_2",
+              "trilobite_garage_sign_B3_2"
+            ],
+            [
+              "trilobite_garage_sign_A3_3",
+              "trilobite_garage_sign_B3_3"
+            ],
+            [
+              "trilobite_garage_sign_A3_4",
+              "trilobite_garage_sign_B3_4"
+            ]
+          ]
+        },
+        "diesel": {
+          "priceBaseline": 1.53,
+          "priceRandomnessGain": 0.100,
+          "priceRandomnessBias": 0.2,
+          "us_9_10_tax": true,
+          "displayObjects": [
+            [
+              "trilobite_garage_sign_A4_1",
+              "trilobite_garage_sign_B4_1"
+            ],
+            [
+              "trilobite_garage_sign_A4_2",
+              "trilobite_garage_sign_B4_2"
+            ],
+            [
+              "trilobite_garage_sign_A4_3",
+              "trilobite_garage_sign_B4_3"
+            ],
+            [
+              "trilobite_garage_sign_A4_4",
+              "trilobite_garage_sign_B4_4"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id":"sparks_city_KEVee",
+      "name":"Sparks",
+      "description":"Sparks",
+      "preview":"fuel_sparks_city.jpg",
+      "energyTypes":["electricEnergy"],
+      "pumps":[
+        ["fuel_sparks_norte_harbor_pump_area_2", "fuel_sparks_norte_harbor_pump_icon_2"],
+        ["fuel_sparks_norte_pump_area_4", "fuel_sparks_norte_pump_icon_4"],
+        ["fuel_sparks_norte_center_pump_area_4", "fuel_sparks_norte_center_pump_icon_4"],
+        ["fuel_sparks_norte_harbor_pump_area_1", "fuel_sparks_norte_harbor_pump_icon_1"],
+        ["fuel_sparks_norte_pump_area_2", "fuel_sparks_norte_pump_icon_2"],
+        ["fuel_sparks_norte_center_pump_area_3", "fuel_sparks_norte_center_pump_icon_3"],
+        ["fuel_sparks_norte_center_pump_area_1", "fuel_sparks_norte_center_pump_icon_1"],
+        ["fuel_sparks_norte_pump_area_3", "fuel_sparks_norte_pump_icon_3"],
+        ["fuel_sparks_norte_pump_area_1", "fuel_sparks_norte_pump_icon_1"],
+        ["fuel_sparks_norte_center_pump_area_2", "fuel_sparks_norte_center_pump_icon_2"]
+      ],
+      "prices":{
+        "electricEnergy":{
+          "priceRandomnessGain": 0.200,
+          "priceRandomnessBias": 0.2,
+          "priceBaseline": 0.7
         }
       }
     }
