@@ -943,7 +943,7 @@
           "psName":"refinery_parking",
           "isInspectSpot":true,
           "logisticTypesProvided":[],
-          "logisticTypesReceived":["food","parcel"],
+          "logisticTypesReceived":["food","parcel","pastaSupplies"],
         },
         {
           "psName":"refinery_terminal_1",
@@ -967,7 +967,7 @@
 
       "sitesFile":"mixed.sites.json",
       "logisticTypesProvided":["gasoline", "diesel","water"],
-      "logisticTypesReceived":["parcel","food"],
+      "logisticTypesReceived":["parcel","food","pastaSupplies"],
       "logisticGenerators":[
         {
           "type":"parcelReceiver",
@@ -975,7 +975,15 @@
           "min":-3,
           "max":1,
           "interval":120
-        }, {
+        },
+        {
+          "type":"parcelReceiver",
+          "logisticTypes":["pastaSupplies"],
+          "min":1,
+          "max":1,
+          "interval":120
+        }, 
+ {
           "type":"parcelReceiver",
           "logisticTypes":["food"],
           "min":-1,
@@ -1032,7 +1040,7 @@
         {
           "psName":"pier_parking",
           "isInspectSpot":true,
-          "logisticTypesProvided":["industrial"],
+          "logisticTypesProvided":["pastaSupplies"],
           "logisticTypesReceived":["industrial","parcel"],
         },
         {
@@ -1047,8 +1055,8 @@
         }
       ],
       "sitesFile":"mixed.sites.json",
-      "logisticTypesProvided":["industrial", "trailerDeliveryConstructionMaterials","vehLargeTruck","vehLargeTruckNeedsRepair"],
-      "logisticTypesReceived":["industrial","parcel","trailerDeliveryConstructionMaterials","vehLargeTruck","vehLargeTruckNeedsRepair","hazardousFluid"],
+      "logisticTypesProvided":["pastaSupplies","industrial", "trailerDeliveryConstructionMaterials","vehLargeTruck","vehLargeTruckNeedsRepair"],
+      "logisticTypesReceived":["pastaSupplies","industrial","parcel","trailerDeliveryConstructionMaterials","vehLargeTruck","vehLargeTruckNeedsRepair","hazardousFluid"],
       "logisticGenerators":[
         {
           "type":"parcelReceiver",
@@ -1056,7 +1064,8 @@
           "min":-3,
           "max":1,
           "interval":120
-        }, {
+        }, 
+{
           "type":"parcelReceiver",
           "logisticTypes":["industrial"],
           "min":-0.5,
@@ -1271,5 +1280,8 @@
         }
       ],
     },
+
+
+    
   ]
 }
