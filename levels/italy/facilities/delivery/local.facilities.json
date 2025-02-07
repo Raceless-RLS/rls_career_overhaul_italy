@@ -1,0 +1,98 @@
+{
+    "deliveryProviders": [
+        {
+            "id": "panificio101",
+            "alwaysVisible": true,
+            "name": "Panificio Pasticceria Store: 101",
+            "description": "Pasta Fasta",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "panificioParking1",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "pastaReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "pastaSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": ["pastaReturns"],
+            "logisticTypesReceived": [
+                "pastaSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "pastaSupplies"
+                    ],
+                    "min": 1,
+                    "max": 2,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "pastaReturns"
+                    ],
+                    "min": 1,
+                    "max": 2,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "panificio123",
+            "alwaysVisible": true,
+            "name": "Panificio Pasticceria Store: 123",
+            "description": "Pasta Fasta",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "panificioParking2",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "pastaReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "pastaSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": ["pastaReturns"],
+            "logisticTypesReceived": [
+                "pastaSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "pastaSupplies"
+                    ],
+                    "min": 1,
+                    "max": 2,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "pastaReturns"
+                    ],
+                    "min": 1,
+                    "max": 2,
+                    "interval": 60
+                }
+            ]
+        }
+    ]
+}
