@@ -1,28 +1,646 @@
 {
   "PastaParcel": {
-    "names":["Pasta","flour","Pasta Supplies"],
-    "logisticTypes":["pastaSupplies"],
-    "slots":[64,124],
-    "cargoType":"parcel",
-    "rarity":1,
-    "worth":1,
-    "generationChance":0.3,
-    "duplicationChance":[1,0.5],
-    "offerDuration":360,
-    "weight":[50,75,100],
-    "modChance":{"post":0.10}
+    "names": [
+      "Pasta",
+      "Pasta Supplies"
+    ],
+    "logisticTypes": [
+      "pastaSupplies"
+    ],
+    "slots": [
+      64
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 1,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      1,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      25,
+      50,
+      75
+    ],
+    "modChance": {
+      "post": 0.10
+    }
+  },
+  "PastaFlourParcel": {
+    "names": [
+      "flour"
+    ],
+    "logisticTypes": [
+      "pastaSupplies"
+    ],
+    "slots": [
+      64
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 1,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      1,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      60,
+      100,
+      140
+    ],
+    "modChance": {
+      "post": 0.10
+    }
   },
   "PastaReturn": {
-    "names":["Rotten Pasta","Spoiled flour","Damaged Pasta Supplies"],
-    "logisticTypes":["pastaReturns"],
-    "slots":[16,32],
-    "cargoType":"parcel",
-    "rarity":1,
-    "worth":0.5,
-    "generationChance":0.3,
-    "duplicationChance":[1,0.5],
-    "offerDuration":360,
-    "weight":[10,25,40],
-    "modChance":{"post":0}
+    "names": [
+      "Rotten Pasta",
+      "Spoiled flour",
+      "Damaged Pasta Supplies"
+    ],
+    "logisticTypes": [
+      "pastaReturns"
+    ],
+    "slots": [
+      16,
+      32
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      1,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      10,
+      25,
+      40
+    ],
+    "modChance": {
+      "post": 0
+    }
+  },
+  "fineFoodParcel": {
+    "names": [
+      "Fine Cheese",
+      "Grapes",
+      "Wine",
+      "Restaurant Supplies"
+    ],
+    "logisticTypes": [
+      "fineFoodSupplies"
+    ],
+    "slots": [
+      16,
+      32
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      1,
+      1,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      10,
+      25,
+      40
+    ],
+    "modChance": {
+      "precious": 0.5
+    }
+  },
+  "clothingParcel": {
+    "names": [
+      "Clothes"
+    ],
+    "logisticTypes": [
+      "clothesSupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.25,
+      1,
+      1,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      140,
+      210,
+      300
+    ],
+    "modChance": {
+      "precious": 0.1
+    }
+  },
+  "alcoholParcel": {
+    "names": [
+      "Wine",
+      "Liquor",
+      "beer"
+    ],
+    "logisticTypes": [
+      "alcoholSupplies"
+    ],
+    "slots": [
+      32,
+      64
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.5,
+      1,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      80,
+      100,
+      130
+    ],
+    "modChance": {
+      "precious": 0.2
+    }
+  },
+  "tastiParcel": {
+    "names": [
+      "Tasti-Cola"
+    ],
+    "logisticTypes": [
+      "tastiSupplies"
+    ],
+    "slots": [
+      64,
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.75,
+      1,
+      1,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      100,
+      150,
+      250
+    ],
+    "modChance": {
+      "precious": 0
+    }
+  },
+  "medParcel": {
+    "names": [
+      "Medicine",
+      "Stimpaks",
+      "MaxDoc",
+      "Medi-Gel"
+    ],
+    "logisticTypes": [
+      "medSupplies"
+    ],
+    "slots": [
+      16,
+      32,
+      64
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.75,
+      1,
+      1,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      15,
+      30,
+      70
+    ],
+    "modChance": {
+      "precious": 0.7
+    }
+  },
+  "cosmeticParcel": {
+    "names": [
+      "Speranza",
+      "Ruby",
+      "Bella"
+    ],
+    "logisticTypes": [
+      "cosmeticSupplies"
+    ],
+    "slots": [
+      16,
+      32
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.75,
+      1,
+      1,
+      0.25,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      10,
+      20,
+      40
+    ],
+    "modChance": {
+      "precious": 0.35
+    }
+  },
+  "crunchiesParcel": {
+    "names": [
+      "Crunchies"
+    ],
+    "logisticTypes": [
+      "crunchiesSupplies"
+    ],
+    "slots": [
+      64,
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.75,
+      1,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      50,
+      60,
+      70
+    ],
+    "modChance": {
+      "precious": 0
+    }
+  },
+  "carPartsLightParcel": {
+    "names": [
+      "Wheels",
+      "Brake Parts",
+      "Suspension Parts",
+      "Misc Car Parts",
+      "Garage Supplies",
+      "Tools"
+    ],
+    "logisticTypes": [
+      "carPartsLightSupplies"
+    ],
+    "slots": [
+      64
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.1,
+      0.5,
+      1,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      75,
+      100,
+      150
+    ],
+    "modChance": {
+      "precious": 0.25
+    }
+  },
+  "carPartsHeavyParcel": {
+    "names": [
+      "Transmissions",
+      "Engine",
+      "Differentials",
+      "Axles",
+      "Garage Supplies",
+      "Tools"
+    ],
+    "logisticTypes": [
+      "carPartsHeavySupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.1,
+      0.5,
+      1,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      200,
+      250,
+      325
+    ],
+    "modChance": {
+      "large": 0.5
+    }
+  },
+  "tiresParcel": {
+    "names": [
+      "Wheels",
+      "Tires"
+    ],
+    "logisticTypes": [
+      "tiresSupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0,
+      0.25,
+      0,
+      0.5,
+      0,
+      0.8,
+      0,
+      1,
+      0,
+      0.35,
+      0,
+      0.35,
+      0,
+      0.25,
+      0,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      60,
+      100,
+      175
+    ],
+    "modChance": {
+      "large": 0
+    }
+  },
+  "freightParcel": {
+    "names": [
+      "Maintenance Parts",
+      "Construction Supplies"
+    ],
+    "logisticTypes": [
+      "freightSupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.5
+    ],
+    "offerDuration": 360,
+    "weight": [
+      250,
+      360,
+      500
+    ],
+    "modChance": {
+      "large": 0.35
+    }
+  },
+  "freight2Parcel": {
+    "names": [
+      "General Freight"
+    ],
+    "logisticTypes": [
+      "freight2Supplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.85
+    ],
+    "offerDuration": 360,
+    "weight": [
+      400,
+      500,
+      625
+    ],
+    "modChance": {
+      "large": 0
+    }
+  },
+  "farmCropsParcel": {
+    "names": [
+      "Wheat",
+      "Olives",
+      "Grapes",
+      "Fruit",
+      "Rice"
+    ],
+    "logisticTypes": [
+      "farmCropsSupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0,
+      0,
+      0,
+      0.25,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0.75,
+      0,
+      0,
+      0,
+      0.5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.4
+    ],
+    "offerDuration": 360,
+    "weight": [
+      200,
+      450,
+      600
+    ],
+    "modChance": {
+      "large": 0.1,
+      "precious": 0.1
+    }
+  },
+  "farmSuppliesParcel": {
+    "names": [
+      "Farm Supplies",
+      "Fertilizer"
+    ],
+    "logisticTypes": [
+      "farmSupplies"
+    ],
+    "slots": [
+      128
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 0.5,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      0.5,
+      1,
+      0.4,
+      0.2
+    ],
+    "offerDuration": 360,
+    "weight": [
+      100,
+      250,
+      400
+    ],
+    "modChance": {
+      "large": 0.1
+    }
   }
 }
