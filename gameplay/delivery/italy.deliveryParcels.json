@@ -59,16 +59,16 @@
   },
   "PastaReturn": {
     "names": [
-      "Rotten Pasta",
-      "Spoiled flour",
-      "Damaged Pasta Supplies"
+      "Returns"
+
     ],
     "logisticTypes": [
-      "pastaReturns"
+      "refundReturns"
     ],
     "slots": [
       16,
-      32
+      32,
+      64
     ],
     "cargoType": "parcel",
     "rarity": 1,
@@ -76,7 +76,8 @@
     "generationChance": 0.3,
     "duplicationChance": [
       1,
-      0.5
+      0.5,
+      0.25
     ],
     "offerDuration": 360,
     "weight": [
@@ -84,9 +85,7 @@
       25,
       40
     ],
-    "modChance": {
-      "post": 0
-    }
+    "modChance": {}
   },
   "fineFoodParcel": {
     "names": [
@@ -124,13 +123,16 @@
   },
   "clothingParcel": {
     "names": [
-      "Clothes"
+      "Clothes",
+      "Shoes",
+      "Clothes",
+      "Jackets"
     ],
     "logisticTypes": [
       "clothesSupplies"
     ],
     "slots": [
-      128
+      32,64,128
     ],
     "cargoType": "parcel",
     "rarity": 1,
@@ -145,9 +147,9 @@
     ],
     "offerDuration": 360,
     "weight": [
-      140,
-      210,
-      300
+      30,
+      50,
+      70
     ],
     "modChance": {
       "precious": 0.1
