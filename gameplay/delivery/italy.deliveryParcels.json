@@ -250,7 +250,8 @@
       70
     ],
     "modChance": {
-      "precious": 0.7
+      "precious": 0.5,
+      "timed": 0.2
     }
   },
   "cosmeticParcel": {
@@ -284,7 +285,7 @@
       40
     ],
     "modChance": {
-      "precious": 0.35
+      "precious": 0.15
     }
   },
   "crunchiesParcel": {
