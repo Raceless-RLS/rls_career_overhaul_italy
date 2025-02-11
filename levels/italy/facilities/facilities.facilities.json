@@ -1,37 +1,36 @@
 {
   "garages": [
     {
-      "id": "carlinoGarage",
-      "name": "Carlino Garage",
+      "id": "uncleGarage",
+      "name": "Uncle's Condo",
       "description": "This is the starter garage, humble beginnings.",
       "preview": "garage_servicestation.jpg",
       "zoneNames": [
-        "carlinoGarage"
+        "uncleGarage"
       ],
       "parkingSpotNames": [
-        "carlino_parking1",
-        "carlino_parking2",
-        "carlino_parking3"
+        "uncleParking1",
+        "uncleParking2"
       ],
       "icon": "poi_garage_2_round",
       "tags": [
         "truck"
       ],
       "defaultPrice": 0,
-      "capacity": 2
+      "capacity": 1
     }
   ],
   "computers": [
     {
-      "id": "carlinoGarageComputer_area",
-      "garageId": "carlinoGarage",
-      "name": "Carlino Garage",
+      "id": "uncleGarageComputer_area",
+      "garageId": "uncleGarage",
+      "name": "Uncle's Garage",
       "description": "ui.career.computer.bigmapLabel.garage",
       "preview": "commercialGarageComputer2.jpg",
       "doors": [
         [
-          "carlinoGarageComputer_area",
-          "carlinoGarageComputer_icon"
+          "uncleHomeComputer_area",
+          "uncleHomeComputer_icon"
         ]
       ],
       "screens": [

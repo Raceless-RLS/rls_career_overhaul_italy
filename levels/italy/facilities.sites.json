@@ -18,90 +18,18 @@
         "values":{}
       },
       "isMultiSpot":false,
-      "name":"carlino_parking1",
-      "oldId":942,
+      "name":"uncleParking1",
+      "oldId":941,
       "pos":[
-        751.2035522,
-        408.2722473,
-        178.0618744
+        675.1819458,
+        878.9731445,
+        182.7039795
       ],
       "rot":[
         0,
         0,
-        0.3674746156,
-        0.9300336242
-      ],
-      "scl":[
-        2.5,
-        6,
-        3
-      ],
-      "spotAmount":1,
-      "spotDirection":"Left",
-      "spotOffset":0,
-      "spotRotation":0
-    },
-    {
-      "color":[
-        1,
-        1,
-        1
-      ],
-      "customFields":{
-        "names":{},
-        "tags":{},
-        "types":{},
-        "values":{}
-      },
-      "isMultiSpot":false,
-      "name":"carlino_parking2",
-      "oldId":943,
-      "pos":[
-        748.8930054,
-        410.6964417,
-        178.064621
-      ],
-      "rot":[
-        0,
-        0,
-        0.3609656692,
-        0.9325792193
-      ],
-      "scl":[
-        2.5,
-        6,
-        3
-      ],
-      "spotAmount":1,
-      "spotDirection":"Left",
-      "spotOffset":0,
-      "spotRotation":0
-    },
-    {
-      "color":[
-        1,
-        1,
-        1
-      ],
-      "customFields":{
-        "names":{},
-        "tags":{},
-        "types":{},
-        "values":{}
-      },
-      "isMultiSpot":false,
-      "name":"carlino_parking3",
-      "oldId":944,
-      "pos":[
-        746.4025879,
-        413.3577576,
-        178.0666962
-      ],
-      "rot":[
-        0,
-        0,
-        0.3756608665,
-        0.9267573357
+        0.711521116,
+        0.7026648784
       ],
       "scl":[
         3.25,
@@ -126,8 +54,44 @@
         "values":{}
       },
       "isMultiSpot":false,
+      "name":"uncleParking2",
+      "oldId":942,
+      "pos":[
+        674.628418,
+        883.2415771,
+        182.6924896
+      ],
+      "rot":[
+        0,
+        0,
+        0.7139894447,
+        0.700156778
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
       "name":"claudioAuto1",
-      "oldId":945,
+      "oldId":943,
       "pos":[
         -1114.896973,
         942.5435791,
@@ -163,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto2",
-      "oldId":946,
+      "oldId":944,
       "pos":[
         -1114.129395,
         947.7677002,
@@ -179,6 +143,294 @@
         3.25,
         8,
         4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"garantitoAutoParking2",
+      "oldId":945,
+      "pos":[
+        216.677597,
+        -321.8963928,
+        192.0257568
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999997381,
+        0.0004400786123
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"garantitoAutoParking1",
+      "oldId":946,
+      "pos":[
+        217.1501617,
+        -320.9792786,
+        192.0257568
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999728758,
+        0.007412163566
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"temerariaAutoParking1",
+      "oldId":947,
+      "pos":[
+        910.5704346,
+        1306.254761,
+        144.0818176
+      ],
+      "rot":[
+        0,
+        0,
+        0,
+        1
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"temerariaAutoParking2",
+      "oldId":948,
+      "pos":[
+        910.6020508,
+        1302.440674,
+        144.128418
+      ],
+      "rot":[
+        0,
+        0,
+        0,
+        1
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"FBXAutoParking1",
+      "oldId":949,
+      "pos":[
+        1200.904175,
+        -827.4435425,
+        145.8543549
+      ],
+      "rot":[
+        0,
+        0,
+        0.9520966411,
+        -0.3057970405
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"portinoAutoParking1",
+      "oldId":950,
+      "pos":[
+        -703.442688,
+        -1346.016724,
+        140.2984619
+      ],
+      "rot":[
+        0,
+        0,
+        -0.07953806221,
+        0.9968318939
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"biancoAutoParking1",
+      "oldId":951,
+      "pos":[
+        -1810.512695,
+        1516.347778,
+        143.0262146
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999417182,
+        0.01079613507
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"carlinoAutoParking1",
+      "oldId":952,
+      "pos":[
+        750.1793213,
+        411.3665466,
+        178.0563354
+      ],
+      "rot":[
+        0,
+        0,
+        0.7718462944,
+        0.6358093023
+      ],
+      "scl":[
+        4,
+        14,
+        8
       ],
       "spotAmount":1,
       "spotDirection":"Left",
@@ -212,8 +464,8 @@
         "types":{},
         "values":{}
       },
-      "name":"carlinoGarage",
-      "oldId":941,
+      "name":"uncleGarage",
+      "oldId":940,
       "top":{
         "active":false,
         "normal":[
@@ -229,24 +481,24 @@
       },
       "vertices":[
         [
-          736.9138794,
-          410.4540405,
-          178.2496338
+          666.7036133,
+          887.1001892,
+          182.7225037
         ],
         [
-          747.6566162,
-          420.2736511,
-          177.7154388
+          683.1173706,
+          887.1036377,
+          182.7201538
         ],
         [
-          762.4041748,
-          406.9443054,
-          178.2670288
+          681.921814,
+          874.9363403,
+          183.5131531
         ],
         [
-          750.5749512,
-          392.2929688,
-          178.0893097
+          666.6771851,
+          874.2189637,
+          183.4854126
         ]
       ]
     }
