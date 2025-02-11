@@ -552,7 +552,7 @@
       "large": 0
     }
   },
-  "farmCropsParcel": {
+  "CropsParcel": {
     "names": [
       "Wheat",
       "Olives",
@@ -561,7 +561,7 @@
       "Rice"
     ],
     "logisticTypes": [
-      "farmCropsSupplies"
+      "CropsSupplies"
     ],
     "slots": [
       128
@@ -644,6 +644,36 @@
     ],
     "modChance": {
       "large": 0.1
+    }
+  },
+  "partSwapParcel": {
+    "names": [
+      "Small Parts",
+      "Misc Parts"
+    ],
+    "logisticTypes": [
+      "partSwapSupplies"
+    ],
+    "slots": [
+      8,16,32
+    ],
+    "cargoType": "parcel",
+    "rarity": 1,
+    "worth": 1,
+    "generationChance": 0.3,
+    "duplicationChance": [
+      1,
+      0.5,
+      0.25
+    ],
+    "offerDuration": 360,
+    "weight": [
+      5,
+      10,
+      25
+    ],
+    "modChance": {
+      "post": 0.10
     }
   }
 }

@@ -5716,6 +5716,1088 @@
                     "interval": 120
                 }
             ]
+        },
+        {
+            "id": "enoteca901",
+            "alwaysVisible": true,
+            "name": "Enoteca Store: 901",
+            "description": "National and Foreign Wines and Liquors.",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "enotecaParking901",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "alcoholSupplies",
+                        "tastiSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "alcoholSupplies",
+                "tastiSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "alcoholSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tastiSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 180
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "enoteca902",
+            "alwaysVisible": true,
+            "name": "Enoteca Store: 902",
+            "description": "National and Foreign Wines and Liquors.",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "enotecaParking902",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "alcoholSupplies",
+                        "tastiSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "alcoholSupplies",
+                "tastiSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "alcoholSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tastiSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 180
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "enoteca903",
+            "alwaysVisible": true,
+            "name": "Enoteca Store: 903",
+            "description": "National and Foreign Wines and Liquors.",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "enotecaParking903",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "alcoholSupplies",
+                        "tastiSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "alcoholSupplies",
+                "tastiSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "alcoholSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tastiSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 180
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },   
+        {
+            "id": "macelleria901",
+            "alwaysVisible": true,
+            "name": "Macelleria Store: 901",
+            "description": "Fines Foods In Italy",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "macelleriaParking901",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "fineFoodSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "fineFoodSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "fineFoodSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "enoteca906",
+            "alwaysVisible": true,
+            "name": "Enoteca Store: 906",
+            "description": "National and Foreign Wines and Liquors.",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "enotecaParking906",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "alcoholSupplies",
+                        "tastiSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "alcoholSupplies",
+                "tastiSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "alcoholSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tastiSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 180
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },  
+        {
+            "id": "macelleria903",
+            "alwaysVisible": true,
+            "name": "Macelleria Store: 903",
+            "description": "Fines Foods In Italy",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "macelleriaParking903",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "fineFoodSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "fineFoodSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "fineFoodSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "macelleria904",
+            "alwaysVisible": true,
+            "name": "Macelleria Store: 904",
+            "description": "Fines Foods In Italy",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "macelleriaParking904",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "fineFoodSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "fineFoodSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "fineFoodSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "abbigliamento901",
+            "alwaysVisible": true,
+            "name": "Abbigliamento Store: 901",
+            "description": "Dress to Impress: With a Dash of Imagination",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "abbigliamentoParking901",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "clothesSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "clothesSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "clothesSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "abbigliamento902",
+            "alwaysVisible": true,
+            "name": "Abbigliamento Store: 902",
+            "description": "Dress to Impress: With a Dash of Imagination",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "abbigliamentoParking902",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "clothesSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "clothesSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "clothesSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "panificio901",
+            "alwaysVisible": true,
+            "name": "Panificio Pasticceria Store: 901",
+            "description": "Pasta Fasta",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "panificioParking901",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "pastaSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "pastaSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "pastaSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "abbigliamento903",
+            "alwaysVisible": true,
+            "name": "Abbigliamento Store: 903",
+            "description": "Dress to Impress: With a Dash of Imagination",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "abbigliamentoParking903",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "clothesSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "clothesSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "clothesSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "panificio902",
+            "alwaysVisible": true,
+            "name": "Panificio Pasticceria Store: 902",
+            "description": "Pasta Fasta",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "panificioParking902",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "pastaSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "local.sites.json",
+            "logisticTypesProvided": [
+                "refundReturns"
+            ],
+            "logisticTypesReceived": [
+                "pastaSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "pastaSupplies"
+                    ],
+                    "min": -1,
+                    "max": 1,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 60
+                }
+            ]
+        },
+        {
+            "id": "farm101",
+            "alwaysVisible": true,
+            "name": "Farm #101",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm101Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm102",
+            "alwaysVisible": true,
+            "name": "Farm #102",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm102Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm103",
+            "alwaysVisible": true,
+            "name": "Farm #103",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm103Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm104",
+            "alwaysVisible": true,
+            "name": "Farm #104",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm104Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm105",
+            "alwaysVisible": true,
+            "name": "Farm #105",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm105Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm106",
+            "alwaysVisible": true,
+            "name": "Farm #106",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm106Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm207",
+            "alwaysVisible": true,
+            "name": "Farm #207",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm207Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm308",
+            "alwaysVisible": true,
+            "name": "Farm #308",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm308Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm406",
+            "alwaysVisible": true,
+            "name": "Farm #406",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm406Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
+        },
+        {
+            "id": "farm110",
+            "alwaysVisible": true,
+            "name": "Farm #110",
+            "description": "Just a beautiful farm",
+            "facilityInformation": "",
+            "associatedOrganization": "belascoCityGarage",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "farm110Parking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "CropsSupplies"
+                    ],
+                    "logisticTypesReceived": ["farmSupplies"]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
+            "logisticTypesProvided": [
+                "CropsSupplies"
+            ],
+            "logisticTypesReceived": ["farmSupplies"],
+            "logisticMaxItems": 10,
+            "logisticGenerators": [
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "CropsSupplies"
+                    ],
+                    "min": -1,
+                    "max": 3,
+                    "interval": 60
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "farmSupplies"
+                    ],
+                    "min": -2,
+                    "max": 1,
+                    "interval": 120
+                }
+            ]
         }
     ]
 }
