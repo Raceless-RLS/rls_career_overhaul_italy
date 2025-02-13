@@ -2,7 +2,7 @@
     "deliveryProviders": [
         {
             "id": "panificio101",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 101",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -51,7 +51,7 @@
         },
         {
             "id": "panificio123",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 123",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -100,7 +100,7 @@
         },
         {
             "id": "panificio134",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 134",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -149,7 +149,7 @@
         },
         {
             "id": "panificio141",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 141",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -198,7 +198,7 @@
         },
         {
             "id": "panificio157",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 157",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -247,7 +247,7 @@
         },
         {
             "id": "panificio169",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 169",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -296,7 +296,7 @@
         },
         {
             "id": "panificio202",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 202",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -345,7 +345,7 @@
         },
         {
             "id": "panificio216",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 216",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -394,7 +394,7 @@
         },
         {
             "id": "panificio227",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 227",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -443,7 +443,7 @@
         },
         {
             "id": "panificio305",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 305",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -492,7 +492,7 @@
         },
         {
             "id": "macelleria105",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 105",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -541,7 +541,7 @@
         },
         {
             "id": "macelleria112",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 112",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -590,7 +590,7 @@
         },
         {
             "id": "macelleria118",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 118",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -639,7 +639,7 @@
         },
         {
             "id": "macelleria124",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 124",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -688,7 +688,7 @@
         },
         {
             "id": "macelleria137",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 137",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -737,7 +737,7 @@
         },
         {
             "id": "macelleria142",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 142",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -786,7 +786,7 @@
         },
         {
             "id": "macelleria148",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 148",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -835,7 +835,7 @@
         },
         {
             "id": "macelleria807",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 807",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -884,7 +884,7 @@
         },
         {
             "id": "macelleria303",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 303",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -933,7 +933,7 @@
         },
         {
             "id": "macelleria604",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 604",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -982,7 +982,7 @@
         },
         {
             "id": "abbigliamento109",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 109",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1031,7 +1031,7 @@
         },
         {
             "id": "abbigliamento111",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 111",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1080,7 +1080,7 @@
         },
         {
             "id": "abbigliamento301",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 301",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1129,7 +1129,7 @@
         },
         {
             "id": "abbigliamento313",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 313",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1178,7 +1178,7 @@
         },
         {
             "id": "abbigliamento117",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 117",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1227,7 +1227,7 @@
         },
         {
             "id": "abbigliamento120",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 120",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1276,7 +1276,7 @@
         },
         {
             "id": "abbigliamento128",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 128",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1325,7 +1325,7 @@
         },
         {
             "id": "abbigliamento133",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 133",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1374,7 +1374,7 @@
         },
         {
             "id": "abbigliamento142",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 142",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1423,7 +1423,7 @@
         },
         {
             "id": "abbigliamento156",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 156",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1472,7 +1472,7 @@
         },
         {
             "id": "abbigliamento165",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 165",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1521,7 +1521,7 @@
         },
         {
             "id": "macelleria177",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 177",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -1570,7 +1570,7 @@
         },
         {
             "id": "macelleria179",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 179",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -1619,7 +1619,7 @@
         },
         {
             "id": "macelleria181",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 181",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -1668,7 +1668,7 @@
         },
         {
             "id": "abbigliamento149",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 149",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1717,7 +1717,7 @@
         },
         {
             "id": "macelleria185",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 185",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -1766,7 +1766,7 @@
         },
         {
             "id": "abbigliamento152",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 152",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1815,7 +1815,7 @@
         },
         {
             "id": "abbigliamento166",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 166",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1864,7 +1864,7 @@
         },
         {
             "id": "abbigliamento701",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 701",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1913,7 +1913,7 @@
         },
         {
             "id": "abbigliamento703",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 703",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -1962,7 +1962,7 @@
         },
         {
             "id": "abbigliamento320",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 320",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2011,7 +2011,7 @@
         },
         {
             "id": "abbigliamento720",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 720",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2060,7 +2060,7 @@
         },
         {
             "id": "abbigliamento721",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 721",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2109,7 +2109,7 @@
         },
         {
             "id": "abbigliamento722",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 722",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2158,7 +2158,7 @@
         },
         {
             "id": "abbigliamento323",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 323",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2207,7 +2207,7 @@
         },
         {
             "id": "abbigliamento325",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 325",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2256,7 +2256,7 @@
         },
         {
             "id": "abbigliamento101",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 101",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2305,7 +2305,7 @@
         },
         {
             "id": "abbigliamento190",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 190",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2354,7 +2354,7 @@
         },
         {
             "id": "abbigliamento230",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 230",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2403,7 +2403,7 @@
         },
         {
             "id": "abbigliamento191",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 191",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2452,7 +2452,7 @@
         },
         {
             "id": "abbigliamento192",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 192",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2501,7 +2501,7 @@
         },
         {
             "id": "abbigliamento193",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 193",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2550,7 +2550,7 @@
         },
         {
             "id": "abbigliamento195",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 195",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2599,7 +2599,7 @@
         },
         {
             "id": "abbigliamento240",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 240",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2648,7 +2648,7 @@
         },
         {
             "id": "abbigliamento241",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 241",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2697,7 +2697,7 @@
         },
         {
             "id": "abbigliamento242",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 242",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2746,7 +2746,7 @@
         },
         {
             "id": "abbigliamento340",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 340",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2795,7 +2795,7 @@
         },
         {
             "id": "abbigliamento740",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 740",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2844,7 +2844,7 @@
         },
         {
             "id": "abbigliamento196",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 196",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2893,7 +2893,7 @@
         },
         {
             "id": "abbigliamento802",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 802",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -2942,7 +2942,7 @@
         },
         {
             "id": "enoteca101",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 101",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3002,7 +3002,7 @@
         },
         {
             "id": "enoteca102",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 102",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3062,7 +3062,7 @@
         },
         {
             "id": "enoteca801",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 801",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3122,7 +3122,7 @@
         },
         {
             "id": "enoteca103",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 103",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3182,7 +3182,7 @@
         },
         {
             "id": "enoteca701",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 701",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3242,7 +3242,7 @@
         },
         {
             "id": "enoteca201",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 201",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3302,7 +3302,7 @@
         },
         {
             "id": "enoteca802",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 802",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3362,7 +3362,7 @@
         },
         {
             "id": "enoteca301",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 301",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3422,7 +3422,7 @@
         },
         {
             "id": "enoteca105",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 105",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3482,7 +3482,7 @@
         },
         {
             "id": "enoteca106",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 106",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3542,7 +3542,7 @@
         },
         {
             "id": "enoteca203",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 203",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3602,7 +3602,7 @@
         },
         {
             "id": "enoteca804",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 804",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3662,7 +3662,7 @@
         },
         {
             "id": "enoteca110",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 110",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3722,7 +3722,7 @@
         },
         {
             "id": "enoteca111",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 111",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3782,7 +3782,7 @@
         },
         {
             "id": "enoteca112",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 112",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3842,7 +3842,7 @@
         },
         {
             "id": "enoteca113",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 113",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -3902,7 +3902,7 @@
         },
         {
             "id": "abbigliamento250",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 250",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -3951,7 +3951,7 @@
         },
         {
             "id": "abbigliamento251",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 251",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -4000,7 +4000,7 @@
         },
         {
             "id": "abbigliamento151",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 151",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -4049,7 +4049,7 @@
         },
         {
             "id": "abbigliamento153",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 153",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -4098,7 +4098,7 @@
         },
         {
             "id": "enoteca601",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 601",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -4158,7 +4158,7 @@
         },
         {
             "id": "enoteca720",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 720",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -4218,7 +4218,7 @@
         },
         {
             "id": "enoteca320",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 320",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -4278,7 +4278,7 @@
         },
         {
             "id": "enoteca321",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 321",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -4338,7 +4338,7 @@
         },
         {
             "id": "farmacia801",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 801",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4398,7 +4398,7 @@
         },
         {
             "id": "farmacia101",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 101",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4458,7 +4458,7 @@
         },
         {
             "id": "farmacia102",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 102",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4518,7 +4518,7 @@
         },
         {
             "id": "farmacia301",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 301",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4578,7 +4578,7 @@
         },
         {
             "id": "farmacia103",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 103",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4638,7 +4638,7 @@
         },
         {
             "id": "farmacia104",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 104",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4698,7 +4698,7 @@
         },
         {
             "id": "farmacia105",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 105",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4758,7 +4758,7 @@
         },
         {
             "id": "farmacia106",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 106",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4818,7 +4818,7 @@
         },
         {
             "id": "farmacia107",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 107",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4878,7 +4878,7 @@
         },
         {
             "id": "farmacia601",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farmacia Store: 601",
             "description": "When you need the legal stuff",
             "facilityInformation": "",
@@ -4938,7 +4938,7 @@
         },
         {
             "id": "corner301",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 301",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5009,7 +5009,7 @@
         },
         {
             "id": "corner201",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 201",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5080,7 +5080,7 @@
         },
         {
             "id": "corner801",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 801",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5151,7 +5151,7 @@
         },
         {
             "id": "corner302",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 302",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5222,7 +5222,7 @@
         },
         {
             "id": "corner303",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 303",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5293,7 +5293,7 @@
         },
         {
             "id": "corner202",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 202",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5364,7 +5364,7 @@
         },
         {
             "id": "corner105",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 105",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5435,7 +5435,7 @@
         },
         {
             "id": "corner701",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 701",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5506,7 +5506,7 @@
         },
         {
             "id": "corner207",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 207",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5577,7 +5577,7 @@
         },
         {
             "id": "corner108",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 108",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5648,7 +5648,7 @@
         },
         {
             "id": "corner631",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Corner Store: 631",
             "description": "Convenience on Some Corners.",
             "facilityInformation": "",
@@ -5719,7 +5719,7 @@
         },
         {
             "id": "enoteca901",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 901",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -5779,7 +5779,7 @@
         },
         {
             "id": "enoteca902",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 902",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -5839,7 +5839,7 @@
         },
         {
             "id": "enoteca903",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 903",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -5899,7 +5899,7 @@
         },   
         {
             "id": "macelleria901",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 901",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -5948,7 +5948,7 @@
         },
         {
             "id": "enoteca906",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Enoteca Store: 906",
             "description": "National and Foreign Wines and Liquors.",
             "facilityInformation": "",
@@ -6008,7 +6008,7 @@
         },  
         {
             "id": "macelleria903",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 903",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -6057,7 +6057,7 @@
         },
         {
             "id": "macelleria904",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Macelleria Store: 904",
             "description": "Fines Foods In Italy",
             "facilityInformation": "",
@@ -6106,7 +6106,7 @@
         },
         {
             "id": "abbigliamento901",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 901",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -6155,7 +6155,7 @@
         },
         {
             "id": "abbigliamento902",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 902",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -6204,7 +6204,7 @@
         },
         {
             "id": "panificio901",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 901",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -6253,7 +6253,7 @@
         },
         {
             "id": "abbigliamento903",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Abbigliamento Store: 903",
             "description": "Dress to Impress: With a Dash of Imagination",
             "facilityInformation": "",
@@ -6302,7 +6302,7 @@
         },
         {
             "id": "panificio902",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Panificio Pasticceria Store: 902",
             "description": "Pasta Fasta",
             "facilityInformation": "",
@@ -6351,7 +6351,7 @@
         },
         {
             "id": "farm101",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #101",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6367,7 +6367,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6396,7 +6396,7 @@
         },
         {
             "id": "farm102",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #102",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6412,7 +6412,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6441,7 +6441,7 @@
         },
         {
             "id": "farm103",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #103",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6457,7 +6457,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6486,7 +6486,7 @@
         },
         {
             "id": "farm104",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #104",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6502,7 +6502,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6531,7 +6531,7 @@
         },
         {
             "id": "farm105",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #105",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6547,7 +6547,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6576,7 +6576,7 @@
         },
         {
             "id": "farm106",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #106",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6592,7 +6592,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6621,7 +6621,7 @@
         },
         {
             "id": "farm207",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #207",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6637,7 +6637,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6666,7 +6666,7 @@
         },
         {
             "id": "farm308",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #308",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6682,7 +6682,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6711,7 +6711,7 @@
         },
         {
             "id": "farm406",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #406",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6727,7 +6727,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
@@ -6756,7 +6756,7 @@
         },
         {
             "id": "farm110",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Farm #110",
             "description": "Just a beautiful farm",
             "facilityInformation": "",
@@ -6772,7 +6772,7 @@
                     "logisticTypesReceived": ["farmSupplies"]
                 }
             ],
-            "sitesFile": "freight.sites.json",
+            "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],

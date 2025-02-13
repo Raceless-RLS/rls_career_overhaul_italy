@@ -19,7 +19,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking1",
-      "oldId":941,
+      "oldId":1091,
       "pos":[
         675.1819458,
         878.9731445,
@@ -55,7 +55,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking2",
-      "oldId":942,
+      "oldId":1092,
       "pos":[
         674.628418,
         883.2415771,
@@ -91,7 +91,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto1",
-      "oldId":943,
+      "oldId":1093,
       "pos":[
         -1114.896973,
         942.5435791,
@@ -127,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto2",
-      "oldId":944,
+      "oldId":1094,
       "pos":[
         -1114.129395,
         947.7677002,
@@ -163,7 +163,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking2",
-      "oldId":945,
+      "oldId":1095,
       "pos":[
         216.677597,
         -321.8963928,
@@ -199,7 +199,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking1",
-      "oldId":946,
+      "oldId":1096,
       "pos":[
         217.1501617,
         -320.9792786,
@@ -235,7 +235,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking1",
-      "oldId":947,
+      "oldId":1097,
       "pos":[
         910.5704346,
         1306.254761,
@@ -271,7 +271,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking2",
-      "oldId":948,
+      "oldId":1098,
       "pos":[
         910.6020508,
         1302.440674,
@@ -307,7 +307,7 @@
       },
       "isMultiSpot":false,
       "name":"FBXAutoParking1",
-      "oldId":949,
+      "oldId":1099,
       "pos":[
         1200.904175,
         -827.4435425,
@@ -343,7 +343,7 @@
       },
       "isMultiSpot":false,
       "name":"portinoAutoParking1",
-      "oldId":950,
+      "oldId":1100,
       "pos":[
         -703.442688,
         -1346.016724,
@@ -379,7 +379,7 @@
       },
       "isMultiSpot":false,
       "name":"biancoAutoParking1",
-      "oldId":951,
+      "oldId":1101,
       "pos":[
         -1810.512695,
         1516.347778,
@@ -415,7 +415,7 @@
       },
       "isMultiSpot":false,
       "name":"carlinoAutoParking1",
-      "oldId":952,
+      "oldId":1102,
       "pos":[
         750.1793213,
         411.3665466,
@@ -426,6 +426,78 @@
         0,
         0.7718462944,
         0.6358093023
+      ],
+      "scl":[
+        4,
+        14,
+        8
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"portoAutoParking1",
+      "oldId":1103,
+      "pos":[
+        363.609436,
+        1522.466309,
+        157.082901
+      ],
+      "rot":[
+        0,
+        0,
+        -0.7046168862,
+        0.7095880501
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"portoAutoParking2",
+      "oldId":3916,
+      "pos":[
+        384.229126,
+        1532.522705,
+        157.0085754
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999954941,
+        0.003061876462
       ],
       "scl":[
         4,
@@ -465,7 +537,7 @@
         "values":{}
       },
       "name":"uncleGarage",
-      "oldId":940,
+      "oldId":1090,
       "top":{
         "active":false,
         "normal":[

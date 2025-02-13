@@ -17,7 +17,7 @@
         "truck"
       ],
       "defaultPrice": 0,
-      "capacity": 1
+      "capacity": 10
     }
   ],
   "computers": [

@@ -87,14 +87,18 @@
                     "logisticTypesProvided": [
                         "fineFoodSupplies"
                     ],
-                    "logisticTypesReceived": ["CropsSupplies"]
+                    "logisticTypesReceived": [
+                        "CropsSupplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "fineFoodSupplies"
             ],
-            "logisticTypesReceived": ["CropsSupplies"],
+            "logisticTypesReceived": [
+                "CropsSupplies"
+            ],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -115,7 +119,6 @@
                     "max": 1,
                     "interval": 120
                 }
-
             ]
         },
         {
@@ -347,14 +350,18 @@
                     "psName": "carPartsSuppliesPortParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "carPartsLightSupplies","carPartsHeavySupplies","tiresSupplies"
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
                     ],
                     "logisticTypesReceived": []
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "carPartsLightSupplies","carPartsHeavySupplies","tiresSupplies"
+                "carPartsLightSupplies",
+                "carPartsHeavySupplies",
+                "tiresSupplies"
             ],
             "logisticTypesReceived": [],
             "logisticMaxItems": 10,
@@ -371,7 +378,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "carPartsLightSupplies"
+                        "carPartsHeavySupplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -380,7 +387,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "carPartsLightSupplies"
+                        "tiresSupplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -388,7 +395,6 @@
                 }
             ]
         },
-
         {
             "id": "norteFreightSuppliesPort",
             "alwaysVisible": true,
@@ -402,17 +408,22 @@
                     "psName": "norteFreightSuppliesPortParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies",
+                        "freightSupplies","freight2Supplies","freight2Supplies",
                         "farmSupplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","farmSupplies"
+                "freightSupplies","freight2Supplies","freight2Supplies",
+                "farmSupplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
@@ -427,7 +438,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 5,
@@ -436,7 +447,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 5,
@@ -457,22 +468,26 @@
                     "psName": "luceraFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies"
+                "freightSupplies","freight2Supplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -481,7 +496,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -502,22 +517,26 @@
                     "psName": "airportFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies","tiresSupplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies"
+                "freightSupplies","freight2Supplies","tiresSupplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies","tiresSupplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -526,7 +545,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -547,22 +566,26 @@
                     "psName": "fastelloFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies"
+                "freightSupplies","freight2Supplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -571,7 +594,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -592,22 +615,26 @@
                     "psName": "fastelloFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies"
+                "freightSupplies","freight2Supplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -616,7 +643,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -637,22 +664,26 @@
                     "psName": "portinoFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
-                    "logisticTypesReceived": ["freightSupplies"]
+                    "logisticTypesReceived": [
+                        "freightSupplies","freight2Supplies"
+                    ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies"
+                "freightSupplies","freight2Supplies"
             ],
-            "logisticTypesReceived": ["freightSupplies"],
+            "logisticTypesReceived": [
+                "freightSupplies","freight2Supplies"
+            ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 1,
@@ -661,7 +692,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies"
+                        "freightSupplies","freight2Supplies"
                     ],
                     "min": -1,
                     "max": 2,
@@ -691,7 +722,7 @@
                     ]
                 }
             ],
-            "sitesFile": "local.sites.json",
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -740,18 +771,29 @@
                 }
             ]
         },
-{
-    "id": "FBXGarageDelivery",
-    "alwaysVisible": true,
-    "name": "FBX Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
         {
-            "psName": "FBXGarageDeliveryParking",
-            "isInspectSpot": true,
+            "id": "FBXGarageDelivery",
+            "alwaysVisible": true,
+            "name": "FBX Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "FBXGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
+            ],
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -759,79 +801,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "CarlinoGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Carlino Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "CarlinoGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "CarlinoGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Carlino Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "CarlinoGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -839,79 +882,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "BiancoGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Bianco Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "BiancoGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "BiancoGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Bianco Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "BiancoGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -919,79 +963,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "PortinoGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Portino Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "PortinoGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "PortinoGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Portino Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "PortinoGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -999,79 +1044,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "ClaudioGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Claudio Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "ClaudioGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "ClaudioGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Claudio Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "ClaudioGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -1079,79 +1125,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "TemerariaGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Temeraria Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "TemerariaGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "TemerariaGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Temeraria Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "TemerariaGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -1159,79 +1206,80 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
-        }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
         },
         {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
+            "id": "GarantitoGarageDelivery",
+            "alwaysVisible": true,
+            "name": "Garantito Garage Delivery",
+            "description": "Part Delivery",
+            "facilityInformation": "",
+            "associatedOrganization": "localDeliveryAssociation",
+            "preview": "facilities/garage_servicestation.jpg",
+            "manualAccessPoints": [
+                {
+                    "psName": "GarantitoGarageDeliveryParking",
+                    "isInspectSpot": true,
+                    "logisticTypesProvided": [
+                        "refundReturns"
+                    ],
+                    "logisticTypesReceived": [
+                        "carPartsLightSupplies",
+                        "carPartsHeavySupplies",
+                        "tiresSupplies"
+                    ]
+                }
             ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-},
-{
-    "id": "GarantitoGarageDelivery",
-    "alwaysVisible": true,
-    "name": "Garantito Garage Delivery",
-    "description": "Part Delivery",
-    "facilityInformation": "",
-    "associatedOrganization": "localDeliveryAssociation",
-    "preview": "facilities/garage_servicestation.jpg",
-    "manualAccessPoints": [
-        {
-            "psName": "GarantitoGarageDeliveryParking",
-            "isInspectSpot": true,
+            "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "refundReturns"
             ],
@@ -1239,66 +1287,56 @@
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
                 "tiresSupplies"
+            ],
+            "logisticMaxItems": 5,
+            "logisticGenerators": [
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsLightSupplies"
+                    ],
+                    "min": -1,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "carPartsHeavySupplies"
+                    ],
+                    "min": -2,
+                    "max": 2,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "tiresSupplies"
+                    ],
+                    "min": -2,
+                    "max": 4,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelProvider",
+                    "logisticTypes": [
+                        "refundReturns",
+                        "partSwapSupplies"
+                    ],
+                    "min": -4,
+                    "max": 1,
+                    "interval": 120
+                },
+                {
+                    "type": "parcelReceiver",
+                    "logisticTypes": [
+                        "partSwapSupplies"
+                    ],
+                    "min": -3,
+                    "max": 1,
+                    "interval": 120
+                }
             ]
         }
-    ],
-    "sitesFile": "local.sites.json",
-    "logisticTypesProvided": [
-        "refundReturns"
-    ],
-    "logisticTypesReceived": [
-        "carPartsLightSupplies",
-        "carPartsHeavySupplies",
-        "tiresSupplies"
-    ],
-    "logisticMaxItems": 5,
-    "logisticGenerators": [
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsLightSupplies"
-            ],
-            "min": -1,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "carPartsHeavySupplies"
-            ],
-            "min": -2,
-            "max": 2,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "tiresSupplies"
-            ],
-            "min": -2,
-            "max": 4,
-            "interval": 120
-        },
-        {
-            "type": "parcelProvider",
-            "logisticTypes": [
-                "refundReturns","partSwapSupplies"
-            ],
-            "min": -4,
-            "max": 1,
-            "interval": 120
-        },
-        {
-            "type": "parcelReceiver",
-            "logisticTypes": [
-                "partSwapSupplies"
-            ],
-            "min": -3,
-            "max": 1,
-            "interval": 120
-        }
-    ]
-}
     ]
 }

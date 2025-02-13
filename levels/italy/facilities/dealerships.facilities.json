@@ -67,20 +67,20 @@
     
       "subFilters": [
         {
-          "probability":8,
-          "whiteList":{"Mileage":{"min":8800028, "max":264000845},"Body Style":["Van","Minivan"], "Config Type":["Factory"]}
+          "probability":3,
+          "whiteList":{"Mileage":{"min":8800028, "max":264000845},"Body Style":["Van"], "Config Type":["Factory"]}
+        },
+        {
+          "probability":5,
+          "whiteList":{"Mileage":{"min":8800028, "max":264000845},"Body Style":["Minivan"], "Config Type":["Factory"]}
+        },
+        {
+          "probability":3,
+          "whiteList":{"Mileage":{"min":8800028, "max":264000845},"Body Style":["SUV"], "Config Type":["Factory"]}
         },
         {
           "probability":1,
           "whiteList":{"Mileage":{"min":8800028, "max":264000845},"Body Style":["Box Truck"], "Config Type":["Factory"]}
-        },
-        {
-          "whiteList":{"Body Style":["Semi Truck", "Tanker Truck", "Flatbed Truck", "Fifth Wheel Truck", "Chassis Cab","Truck","Forklift"]},
-          "probability":1
-        },
-        {
-          "whiteList":{"Body Style":["Bus"]},
-          "probability":1
         }
       ],
 
@@ -294,6 +294,51 @@
       "iconOffsetHeight":1.0,
       "iconLift":0.25,
       "playModeIconName":"poi_entrance_round"
+    },
+    {
+      "id":"portoAuto",
+      "name":"porto Auto Sales",
+      "description":"",
+      "stock": 9,
+      "associatedOrganization":"",
+      "preview":"belasco_auto_dealership.jpg",
+      "doors":[["portoAuto_area","portoAuto_icon", 30]],
+      "parkingSpotNames":["portoAutoParking1","portoAutoParking2"],
+      "activityAcceptProps":[
+        {"keyLabel":"New & Used Vehicles"}
+      ],
+
+      "filter":{
+        "whiteList":{"Mileage":{"min":1760006, "max":970000000}},
+        "blackList":{"hasLoad":[true],"Config Type":["Frame"],"Type":["Trailer"],"Tags":["Ambulance"],"Body Style":["Ambulance","Pickup"]}
+      },
+    
+      "subFilters": [
+        {
+          "whiteList":{"Body Style":["Semi Truck", "Tanker Truck", "Flatbed Truck", "Fifth Wheel Truck", "Chassis Cab","Truck","Forklift"]},
+          "probability":2
+        },
+        {
+          "whiteList":{"Type":["Trailer"],"Mileage":{"min":1613, "max":161290323}},
+          "probability":3
+        },
+        {
+          "whiteList":{"Body Style":["Bus"]},
+          "probability":1
+        }
+    
+      ],
+
+      "fees": 749,
+      "containsStarterVehicles": false,
+      "testDrive" : {
+        "abandonFees" : 100,
+        "timeLimit" : 120,
+        "licencePlate" : "belasco"
+      },
+      "iconOffsetHeight":1.0,
+      "iconLift":0.25,
+      "playModeIconName":"poi_entrance_round"
     }
 
   ],
@@ -307,6 +352,7 @@
         "blackList":{"Type":["Trailer", "Semi Truck"]}
       }
     }
+
   ]
 }
 
