@@ -1,0 +1,30 @@
+{
+  "type":"custom",
+  "data":[
+    {
+      "config":"Vivace Polizia (M)",
+      "model":"vivace"
+    },
+    {
+      "config":"rls_polizia",
+      "model":"vivace"
+    },
+    {
+      "config":"GTs Polizia (DCT)",
+      "model":"scintilla"
+    },
+    {
+      "config":"police",
+      "model":"roamer"
+    },
+    {
+      "config":"police_passenger",
+      "model":"van"
+    }
+  ],
+  "name":"Italy - Police",
+  "tags":[
+    "italy",
+    "police"
+  ]
+}

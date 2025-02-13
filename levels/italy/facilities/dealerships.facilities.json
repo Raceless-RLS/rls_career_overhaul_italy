@@ -35,7 +35,7 @@
         }
       ],
 
-      "fees": 749,
+      "fees": 1749,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -84,7 +84,7 @@
         }
       ],
 
-      "fees": 749,
+      "fees": 949,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -133,7 +133,7 @@
         }
       ],
 
-      "fees": 749,
+      "fees": 2749,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -168,7 +168,7 @@
         }
       ],
 
-      "fees": 749,
+      "fees": 249,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -202,7 +202,7 @@
         }
       ],
 
-      "fees": 749,
+      "fees": 949,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -329,7 +329,7 @@
     
       ],
 
-      "fees": 749,
+      "fees": 1549,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -358,12 +358,12 @@
     "subFilters": [
       {
         "probability":1,
-        "whiteList":{"Mileage":{"min":2000, "max":88000282}, "Config Type":["Police"]}
+        "whiteList":{"Mileage":{"min":2000, "max":88000282}, "Config Type":["Police"],"Brand":["Cherrier","Autobello","ETK"]}
       }
     
       ],
 
-      "fees": 749,
+      "fees": 1049,
       "containsStarterVehicles": false,
       "testDrive" : {
         "abandonFees" : 100,
@@ -381,7 +381,7 @@
     {
       "id": "private",
       "name": "Private",
-      "stock": 10,
+      "stock": 30,
       "filter": {
         "whiteList":{"Mileage":{"min":25000000, "max":380000000}, "Value":{"min":450}},
         "blackList":{"Type":["Trailer", "Semi Truck"]}
