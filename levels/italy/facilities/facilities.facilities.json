@@ -4,7 +4,7 @@
       "id": "uncleGarage",
       "name": "Uncle's Condo",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "uncleGarage"
       ],
@@ -23,7 +23,7 @@
       "id": "divisionLaneGarage",
       "name": "107 Division Lane",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "divisionLaneGarage"
       ],
@@ -42,7 +42,7 @@
       "id": "tristanLaneGarage",
       "name": "353 Tristan Lane",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "tristanLaneGarage"
       ],
@@ -60,7 +60,7 @@
       "id": "racelessWayGarage",
       "name": "4371 Raceless Way",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "racelessWayGarage"
       ],
@@ -80,7 +80,7 @@
       "id": "sumoStreetGarage",
       "name": "42 Sumo Street",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "sumoStreetGarage"
       ],
@@ -99,7 +99,7 @@
       "id": "shiftTabCourtGarage",
       "name": "2410 ShiftTab Court",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "shiftTabCourtGarage"
       ],
@@ -118,7 +118,7 @@
       "id": "mcgroryAveGarage",
       "name": "213 McGrory Ave",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "mcgroryAveGarage"
       ],
@@ -138,7 +138,7 @@
       "id": "villaScuderiaGarage",
       "name": "Villa Scuderia",
       "description": "This is the starter garage, humble beginnings.",
-      "preview": "garage_servicestation.jpg",
+      "preview": "imageTBD.png",
       "zoneNames": [
         "villaScuderiaGarage"
       ],
@@ -169,7 +169,7 @@
       "garageId": "uncleGarage",
       "name": "Uncle's Condo",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "uncleHomeComputer_area",
@@ -206,7 +206,7 @@
       "garageId": "divisionLaneGarage",
       "name": "107 Division Lane",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "divisionLaneHomeComputer_area",
@@ -243,7 +243,7 @@
       "garageId": "tristanLaneGarage",
       "name": "353 Tristan Lane",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "tristanLaneHomeComputer_area",
@@ -280,7 +280,7 @@
       "garageId": "racelessWayGarage",
       "name": "4371 Raceless Way",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "racelessWayHomeComputer_area",
@@ -317,7 +317,7 @@
       "garageId": "sumoStreetGarage",
       "name": "42 Sumo Street",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "sumoStreetHomeComputer_area",
@@ -354,7 +354,7 @@
       "garageId": "shiftTabCourtGarage",
       "name": "2410 ShiftTab Court",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "shiftTabCourtHomeComputer_area",
@@ -391,7 +391,7 @@
       "garageId": "mcgroryAveGarage",
       "name": "213 McGrory Ave",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "mcgroryAveHomeComputer_area",
@@ -428,7 +428,7 @@
       "garageId": "villaScuderiaGarage",
       "name": "Villa Scuderia",
       "description": "ui.career.computer.bigmapLabel.garage",
-      "preview": "commercialGarageComputer2.jpg",
+      "preview": "imageTBD.png",
       "doors": [
         [
           "villaScuderiaHomeComputer_area",
@@ -466,7 +466,7 @@
       "id": "apex_mountainback_garage",
       "name": "Apex Mountain Station",
       "description": "Apex Mountain Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -579,7 +579,7 @@
       "id": "apex_norte_garage",
       "name": "Apex norte Station",
       "description": "Apex norte Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -692,7 +692,7 @@
       "id": "apex_lucera_garage",
       "name": "Apex Lucera Station",
       "description": "Apex Lucera Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -805,7 +805,7 @@
       "id": "apex_norte_harbor_garage",
       "name": "Apex norte_harbor Station",
       "description": "Apex norte_harbor Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -918,7 +918,7 @@
       "id": "apex_fastello_garage",
       "name": "Apex fastello Station",
       "description": "Apex fastello Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -1035,7 +1035,7 @@
       "id": "apex_crossroads_garage",
       "name": "Apex crossroads Station",
       "description": "Apex crossroads Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -1152,7 +1152,7 @@
       "id": "apex_castelletto_garage",
       "name": "Apex castelletto Station",
       "description": "Apex castelletto Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",
@@ -1269,7 +1269,7 @@
       "id": "apex_airport_garage",
       "name": "Apex airport Station",
       "description": "Apex airport Station",
-      "preview": "fuel_trilobite_garage.jpg",
+      "preview": "imageTBD.png",
       "energyTypes": [
         "gasoline",
         "diesel",

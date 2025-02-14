@@ -7,7 +7,7 @@
             "description": "Somehow kept dry...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "pastaPortParking",
@@ -43,7 +43,7 @@
             "description": "Nobody knows where these go next...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "returnPortParking",
@@ -79,7 +79,7 @@
             "description": "Somehow kept dry...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "fineFoodSuppliesPortParking",
@@ -128,7 +128,7 @@
             "description": "Should just shop here.",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "clothesSuppliesPortParking",
@@ -164,7 +164,7 @@
             "description": "There is no license for this?",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "alcoholSuppliesPortParking",
@@ -200,7 +200,7 @@
             "description": "How come they get the fancy door?",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "tastiSuppliesPortParking",
@@ -236,7 +236,7 @@
             "description": "This must be some good cereal.",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "crunchiesSuppliesPortParking",
@@ -272,7 +272,7 @@
             "description": "Big warehouse for a small product",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "medSuppliesPortParking",
@@ -308,7 +308,7 @@
             "description": "I thought these were made locally...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "cosmeticSuppliesPortParking",
@@ -344,7 +344,7 @@
             "description": "Aftermarket, OEM, it all comes from the same place...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "carPartsSuppliesPortParking",
@@ -402,7 +402,7 @@
             "description": "Calling all truckers...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "norteFreightSuppliesPortParking",
@@ -462,7 +462,7 @@
             "description": "I guess this is more long term storage",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "luceraFreightSuppliesParking",
@@ -511,7 +511,7 @@
             "description": "Must be going somewhere important",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "airportFreightSuppliesParking",
@@ -560,7 +560,7 @@
             "description": "Must have a big basement...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "fastelloFreightSuppliesParking",
@@ -609,7 +609,7 @@
             "description": "Must have a big basement...",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "fastelloFreightSuppliesParking",
@@ -658,7 +658,7 @@
             "description": "No clue where they are going to put this stuff.",
             "facilityInformation": "",
             "associatedOrganization": "belascoCityGarage",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "portinoFreightSuppliesParking",
@@ -707,7 +707,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "FBXGarageDeliveryParking",
@@ -778,7 +778,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "FBXGarageDeliveryParking",
@@ -859,7 +859,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "CarlinoGarageDeliveryParking",
@@ -940,7 +940,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "BiancoGarageDeliveryParking",
@@ -1021,7 +1021,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "PortinoGarageDeliveryParking",
@@ -1102,7 +1102,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "ClaudioGarageDeliveryParking",
@@ -1183,7 +1183,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "TemerariaGarageDeliveryParking",
@@ -1264,7 +1264,7 @@
             "description": "Part Delivery",
             "facilityInformation": "",
             "associatedOrganization": "localDeliveryAssociation",
-            "preview": "facilities/garage_servicestation.jpg",
+            "preview": "facilities/imageTBD.png",
             "manualAccessPoints": [
                 {
                     "psName": "GarantitoGarageDeliveryParking",
