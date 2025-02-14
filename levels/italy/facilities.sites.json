@@ -19,7 +19,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking1",
-      "oldId":4,
+      "oldId":2960,
       "pos":[
         675.1819458,
         878.9731445,
@@ -55,7 +55,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking2",
-      "oldId":5,
+      "oldId":2961,
       "pos":[
         674.628418,
         883.2415771,
@@ -91,7 +91,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto1",
-      "oldId":6,
+      "oldId":2962,
       "pos":[
         -1114.896973,
         942.5435791,
@@ -127,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto2",
-      "oldId":7,
+      "oldId":2963,
       "pos":[
         -1114.129395,
         947.7677002,
@@ -163,7 +163,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking2",
-      "oldId":8,
+      "oldId":2964,
       "pos":[
         216.677597,
         -321.8963928,
@@ -199,7 +199,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking1",
-      "oldId":9,
+      "oldId":2965,
       "pos":[
         217.1501617,
         -320.9792786,
@@ -235,7 +235,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking1",
-      "oldId":10,
+      "oldId":2966,
       "pos":[
         910.5704346,
         1306.254761,
@@ -271,7 +271,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking2",
-      "oldId":11,
+      "oldId":2967,
       "pos":[
         910.6020508,
         1302.440674,
@@ -307,7 +307,7 @@
       },
       "isMultiSpot":false,
       "name":"FBXAutoParking1",
-      "oldId":12,
+      "oldId":2968,
       "pos":[
         1200.904175,
         -827.4435425,
@@ -343,7 +343,7 @@
       },
       "isMultiSpot":false,
       "name":"portinoAutoParking1",
-      "oldId":13,
+      "oldId":2969,
       "pos":[
         -703.442688,
         -1346.016724,
@@ -379,7 +379,7 @@
       },
       "isMultiSpot":false,
       "name":"biancoAutoParking1",
-      "oldId":14,
+      "oldId":2970,
       "pos":[
         -1810.512695,
         1516.347778,
@@ -415,7 +415,7 @@
       },
       "isMultiSpot":false,
       "name":"carlinoAutoParking1",
-      "oldId":15,
+      "oldId":2971,
       "pos":[
         750.1793213,
         411.3665466,
@@ -451,7 +451,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking1",
-      "oldId":16,
+      "oldId":2972,
       "pos":[
         363.609436,
         1522.466309,
@@ -487,7 +487,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking2",
-      "oldId":17,
+      "oldId":2973,
       "pos":[
         384.229126,
         1532.522705,
@@ -523,7 +523,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking1",
-      "oldId":18,
+      "oldId":2974,
       "pos":[
         176.0187836,
         1392.031616,
@@ -559,7 +559,7 @@
       },
       "isMultiSpot":false,
       "name":"divisionLaneParking1",
-      "oldId":19,
+      "oldId":2975,
       "pos":[
         307.4429321,
         -252.6042023,
@@ -595,7 +595,7 @@
       },
       "isMultiSpot":false,
       "name":"divisionLaneParking2",
-      "oldId":20,
+      "oldId":2976,
       "pos":[
         309.2906494,
         -249.7464447,
@@ -631,7 +631,7 @@
       },
       "isMultiSpot":false,
       "name":"tristanLaneParking1",
-      "oldId":3913,
+      "oldId":2977,
       "pos":[
         -1743.227661,
         1279.296997,
@@ -667,7 +667,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking1",
-      "oldId":3915,
+      "oldId":2978,
       "pos":[
         -1773.566528,
         -92.9996109,
@@ -703,7 +703,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking2",
-      "oldId":3916,
+      "oldId":2979,
       "pos":[
         -1768.295288,
         -88.1111145,
@@ -739,7 +739,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking3",
-      "oldId":3917,
+      "oldId":2980,
       "pos":[
         -1761.577148,
         -100.6481705,
@@ -755,6 +755,654 @@
         3.25,
         8,
         4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"sumoStreetParking1",
+      "oldId":2981,
+      "pos":[
+        70.77732086,
+        -262.4403687,
+        193.2540894
+      ],
+      "rot":[
+        0,
+        0,
+        0.6965761781,
+        0.7174828649
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"sumoStreetParking2",
+      "oldId":2982,
+      "pos":[
+        70.26460266,
+        -259.402771,
+        193.2540894
+      ],
+      "rot":[
+        0,
+        0,
+        0.7002654076,
+        0.7138826251
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"shiftTabCourtParking1",
+      "oldId":2983,
+      "pos":[
+        1818.283691,
+        -1350.958984,
+        162.496933
+      ],
+      "rot":[
+        0,
+        0,
+        0,
+        1
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"shiftTabCourtParking2",
+      "oldId":2984,
+      "pos":[
+        1821.472046,
+        -1351.877197,
+        162.4960175
+      ],
+      "rot":[
+        0,
+        0,
+        0,
+        1
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"mcgroryAveParking1",
+      "oldId":2985,
+      "pos":[
+        1204.145142,
+        1044.613159,
+        169.533844
+      ],
+      "rot":[
+        0,
+        0,
+        0.7089533255,
+        0.7052555446
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"mcgroryAveParking2",
+      "oldId":2986,
+      "pos":[
+        1202.586548,
+        1047.572998,
+        169.5376892
+      ],
+      "rot":[
+        0,
+        0,
+        0.7078374096,
+        0.7063754894
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"mcgroryAveParking3",
+      "oldId":2987,
+      "pos":[
+        1201.311523,
+        1054.275635,
+        169.5419312
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999956709,
+        -0.003009342098
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking1",
+      "oldId":2988,
+      "pos":[
+        -500.1749268,
+        703.2011719,
+        304.0999756
+      ],
+      "rot":[
+        0,
+        0,
+        -0.04504646576,
+        0.9989852492
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":6,
+      "spotDirection":"Right",
+      "spotOffset":1.123999953,
+      "spotRotation":-0.7200000286
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking2",
+      "oldId":2989,
+      "pos":[
+        -494.6660156,
+        702.9291992,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        -0.4150622241,
+        0.909792915
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking3",
+      "oldId":2990,
+      "pos":[
+        -489.7022705,
+        703.0283203,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        -0.4393008053,
+        0.898340106
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking4",
+      "oldId":2991,
+      "pos":[
+        -484.7804565,
+        702.9908447,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        -0.4245399833,
+        0.9054092169
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking5",
+      "oldId":2992,
+      "pos":[
+        -479.6063843,
+        703.1065063,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        -0.418107003,
+        0.9083978534
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking6",
+      "oldId":2993,
+      "pos":[
+        -494.5579834,
+        711.7642212,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.9509777427,
+        -0.309259057
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking7",
+      "oldId":2994,
+      "pos":[
+        -489.9474487,
+        711.9854736,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.9529948831,
+        -0.3029864132
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking8",
+      "oldId":2995,
+      "pos":[
+        -485.7969666,
+        711.7936401,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.9505504966,
+        -0.3105703592
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking9",
+      "oldId":2996,
+      "pos":[
+        -481.1260986,
+        711.9118652,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.9523338079,
+        -0.305057615
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking10",
+      "oldId":2997,
+      "pos":[
+        -503.425293,
+        712.0463867,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.9126217365,
+        -0.4088052213
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"villaScuderiaParking11",
+      "oldId":2998,
+      "pos":[
+        -512.1554565,
+        709.1855469,
+        304.1000061
+      ],
+      "rot":[
+        0,
+        0,
+        0.772871656,
+        0.6345625559
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
       ],
       "spotAmount":1,
       "spotDirection":"Left",
@@ -789,7 +1437,7 @@
         "values":{}
       },
       "name":"uncleGarage",
-      "oldId":2,
+      "oldId":2952,
       "top":{
         "active":false,
         "normal":[
@@ -852,7 +1500,7 @@
         "values":{}
       },
       "name":"divisionLaneGarage",
-      "oldId":3,
+      "oldId":2953,
       "top":{
         "active":false,
         "normal":[
@@ -935,7 +1583,7 @@
         "values":{}
       },
       "name":"tristanLaneGarage",
-      "oldId":3914,
+      "oldId":2954,
       "top":{
         "active":false,
         "normal":[
@@ -1023,7 +1671,7 @@
         "values":{}
       },
       "name":"racelessWayGarage",
-      "oldId":3918,
+      "oldId":2955,
       "top":{
         "active":false,
         "normal":[
@@ -1062,6 +1710,278 @@
           -1777.335449,
           -103.4795303,
           152.3161774
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"sumoStreetGarage",
+      "oldId":2956,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          86.39806366,
+          -254.6964111,
+          193.0084839
+        ],
+        [
+          86.15288544,
+          -264.6214905,
+          193.9963531
+        ],
+        [
+          65.94123077,
+          -264.7402344,
+          193.8778992
+        ],
+        [
+          66.175354,
+          -254.5476227,
+          192.0933685
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"shiftTabCourtGarage",
+      "oldId":2957,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          1815.675049,
+          -1340.106689,
+          162.6389771
+        ],
+        [
+          1815.161011,
+          -1358.709106,
+          161.0059662
+        ],
+        [
+          1837.61499,
+          -1357.642456,
+          162.8640137
+        ],
+        [
+          1839.115723,
+          -1340.026489,
+          161.0665131
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"mcgroryAveGarage",
+      "oldId":2958,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          1212.57666,
+          1042.763428,
+          169.4453125
+        ],
+        [
+          1199.003906,
+          1043.041748,
+          169.5343628
+        ],
+        [
+          1199.190796,
+          1060.229248,
+          169.5372162
+        ],
+        [
+          1212.997192,
+          1059.413696,
+          169.0957184
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"villaScuderiaGarage",
+      "oldId":2959,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          -470.8954773,
+          699.7202759,
+          304.2073364
+        ],
+        [
+          -470.0820313,
+          715.4665527,
+          304.2073364
+        ],
+        [
+          -507.2522278,
+          715.5007324,
+          304.2073364
+        ],
+        [
+          -508.2790527,
+          712,
+          305.1063843
+        ],
+        [
+          -515.9848022,
+          711.2293091,
+          305.7221069
+        ],
+        [
+          -515.3138428,
+          702.3356323,
+          304.1000061
+        ],
+        [
+          -503.0753784,
+          702.0698853,
+          304.1000061
+        ],
+        [
+          -500.4084473,
+          699.9471436,
+          304.2073364
         ]
       ]
     }

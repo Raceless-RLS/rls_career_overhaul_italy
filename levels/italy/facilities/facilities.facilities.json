@@ -17,7 +17,7 @@
         "truck"
       ],
       "defaultPrice": 0,
-      "capacity": 10
+      "capacity": 2
     },
     {
       "id": "divisionLaneGarage",
@@ -73,8 +73,94 @@
       "tags": [
         "truck"
       ],
-      "defaultPrice": 250000,
+      "defaultPrice": 285000,
       "capacity": 4
+    },
+    {
+      "id": "sumoStreetGarage",
+      "name": "42 Sumo Street",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "sumoStreetGarage"
+      ],
+      "parkingSpotNames": [
+        "sumoStreetParking1",
+        "sumoStreetParking2"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 275000,
+      "capacity": 2
+    },
+    {
+      "id": "shiftTabCourtGarage",
+      "name": "2410 ShiftTab Court",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "shiftTabCourtGarage"
+      ],
+      "parkingSpotNames": [
+        "shiftTabCourtParking1",
+        "shiftTabCourtParking2"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 175000,
+      "capacity": 2
+    },
+    {
+      "id": "mcgroryAveGarage",
+      "name": "213 McGrory Ave",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "mcgroryAveGarage"
+      ],
+      "parkingSpotNames": [
+        "mcgroryAveParking1",
+        "mcgroryAveParking2",
+        "mcgroryAveParking3"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 400000,
+      "capacity": 3
+    },
+    {
+      "id": "villaScuderiaGarage",
+      "name": "Villa Scuderia",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "villaScuderiaGarage"
+      ],
+      "parkingSpotNames": [
+        "villaScuderiaParking1",
+        "villaScuderiaParking2",
+        "villaScuderiaParking3",
+        "villaScuderiaParking4",
+        "villaScuderiaParking5",
+        "villaScuderiaParking6",
+        "villaScuderiaParking7",
+        "villaScuderiaParking8",
+        "villaScuderiaParking9",
+        "villaScuderiaParking10",
+        "villaScuderiaParking11"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 1000000,
+      "capacity": 10
     }
   ],
   "computers": [
@@ -225,8 +311,155 @@
       "iconOffsetHeight": 0.24,
       "iconLift": 0.24,
       "icon": "poi_laptop_round"
+    },
+    {
+      "id": "sumoStreetGarageComputer_area",
+      "garageId": "sumoStreetGarage",
+      "name": "42 Sumo Street",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "sumoStreetHomeComputer_area",
+          "sumoStreetHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    },
+    {
+      "id": "shiftTabCourtGarageComputer_area",
+      "garageId": "shiftTabCourtGarage",
+      "name": "2410 ShiftTab Court",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "shiftTabCourtHomeComputer_area",
+          "shiftTabCourtHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    },
+    {
+      "id": "mcgroryAveGarageComputer_area",
+      "garageId": "mcgroryAveGarage",
+      "name": "213 McGrory Ave",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "mcgroryAveHomeComputer_area",
+          "mcgroryAveHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    },
+    {
+      "id": "villaScuderiaGarageComputer_area",
+      "garageId": "villaScuderiaGarage",
+      "name": "Villa Scuderia",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "villaScuderiaHomeComputer_area",
+          "villaScuderiaHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
     }
-
   ],
   "gasStations": [
     {
