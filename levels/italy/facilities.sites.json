@@ -19,7 +19,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking1",
-      "oldId":961,
+      "oldId":4,
       "pos":[
         675.1819458,
         878.9731445,
@@ -55,7 +55,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking2",
-      "oldId":962,
+      "oldId":5,
       "pos":[
         674.628418,
         883.2415771,
@@ -91,7 +91,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto1",
-      "oldId":963,
+      "oldId":6,
       "pos":[
         -1114.896973,
         942.5435791,
@@ -127,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto2",
-      "oldId":964,
+      "oldId":7,
       "pos":[
         -1114.129395,
         947.7677002,
@@ -163,7 +163,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking2",
-      "oldId":965,
+      "oldId":8,
       "pos":[
         216.677597,
         -321.8963928,
@@ -199,7 +199,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking1",
-      "oldId":966,
+      "oldId":9,
       "pos":[
         217.1501617,
         -320.9792786,
@@ -235,7 +235,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking1",
-      "oldId":967,
+      "oldId":10,
       "pos":[
         910.5704346,
         1306.254761,
@@ -271,7 +271,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking2",
-      "oldId":968,
+      "oldId":11,
       "pos":[
         910.6020508,
         1302.440674,
@@ -307,7 +307,7 @@
       },
       "isMultiSpot":false,
       "name":"FBXAutoParking1",
-      "oldId":969,
+      "oldId":12,
       "pos":[
         1200.904175,
         -827.4435425,
@@ -343,7 +343,7 @@
       },
       "isMultiSpot":false,
       "name":"portinoAutoParking1",
-      "oldId":970,
+      "oldId":13,
       "pos":[
         -703.442688,
         -1346.016724,
@@ -379,7 +379,7 @@
       },
       "isMultiSpot":false,
       "name":"biancoAutoParking1",
-      "oldId":971,
+      "oldId":14,
       "pos":[
         -1810.512695,
         1516.347778,
@@ -415,7 +415,7 @@
       },
       "isMultiSpot":false,
       "name":"carlinoAutoParking1",
-      "oldId":972,
+      "oldId":15,
       "pos":[
         750.1793213,
         411.3665466,
@@ -451,7 +451,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking1",
-      "oldId":973,
+      "oldId":16,
       "pos":[
         363.609436,
         1522.466309,
@@ -487,7 +487,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking2",
-      "oldId":974,
+      "oldId":17,
       "pos":[
         384.229126,
         1532.522705,
@@ -523,7 +523,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking1",
-      "oldId":975,
+      "oldId":18,
       "pos":[
         176.0187836,
         1392.031616,
@@ -539,6 +539,222 @@
         2.5,
         6,
         3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"divisionLaneParking1",
+      "oldId":19,
+      "pos":[
+        307.4429321,
+        -252.6042023,
+        195.9882813
+      ],
+      "rot":[
+        0,
+        0,
+        0.9403082728,
+        0.3403239548
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"divisionLaneParking2",
+      "oldId":20,
+      "pos":[
+        309.2906494,
+        -249.7464447,
+        195.9864655
+      ],
+      "rot":[
+        0,
+        0,
+        0.9430740292,
+        0.3325832921
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"tristanLaneParking1",
+      "oldId":3913,
+      "pos":[
+        -1743.227661,
+        1279.296997,
+        143.9562683
+      ],
+      "rot":[
+        0,
+        0,
+        0.9535181931,
+        -0.3013353449
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"racelessWayParking1",
+      "oldId":3915,
+      "pos":[
+        -1773.566528,
+        -92.9996109,
+        152.5272369
+      ],
+      "rot":[
+        0,
+        0,
+        0.9999470115,
+        -0.0103027951
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"racelessWayParking2",
+      "oldId":3916,
+      "pos":[
+        -1768.295288,
+        -88.1111145,
+        152.5205383
+      ],
+      "rot":[
+        0,
+        0,
+        -0.720453918,
+        0.6935026646
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"racelessWayParking3",
+      "oldId":3917,
+      "pos":[
+        -1761.577148,
+        -100.6481705,
+        152.5856323
+      ],
+      "rot":[
+        0,
+        0,
+        -0.8562161418,
+        0.516617946
+      ],
+      "scl":[
+        3.25,
+        8,
+        4
       ],
       "spotAmount":1,
       "spotDirection":"Left",
@@ -573,7 +789,7 @@
         "values":{}
       },
       "name":"uncleGarage",
-      "oldId":960,
+      "oldId":2,
       "top":{
         "active":false,
         "normal":[
@@ -607,6 +823,245 @@
           666.6771851,
           874.2189637,
           183.4854126
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"divisionLaneGarage",
+      "oldId":3,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          310.7058411,
+          -241.9592438,
+          195.268158
+        ],
+        [
+          300.9277039,
+          -248.6764221,
+          192.1420593
+        ],
+        [
+          307.2424927,
+          -258.8703003,
+          194.9537964
+        ],
+        [
+          310.9017944,
+          -259.8238525,
+          195.9651794
+        ],
+        [
+          314.4448547,
+          -263.319397,
+          196.3807678
+        ],
+        [
+          316.9608459,
+          -260.176239,
+          196.6699677
+        ],
+        [
+          314.9954834,
+          -256.8144836,
+          196.0088654
+        ],
+        [
+          320.1408386,
+          -252.2096558,
+          196.0460052
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"tristanLaneGarage",
+      "oldId":3914,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          -1754.079834,
+          1273.165039,
+          141.2419128
+        ],
+        [
+          -1749.535278,
+          1272.790039,
+          142.3589783
+        ],
+        [
+          -1744.063721,
+          1283.129761,
+          143.8792725
+        ],
+        [
+          -1747.008057,
+          1286.342773,
+          143.9269257
+        ],
+        [
+          -1743.159668,
+          1289.925171,
+          143.4043884
+        ],
+        [
+          -1737.391479,
+          1281.821411,
+          144.9346619
+        ],
+        [
+          -1744.263794,
+          1273.139038,
+          144.1864777
+        ],
+        [
+          -1749.180176,
+          1268.018311,
+          142.8632965
+        ],
+        [
+          -1756.153564,
+          1268.163208,
+          142.1018829
+        ]
+      ]
+    },
+    {
+      "bot":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          -1
+        ],
+        "pos":[
+          0,
+          0,
+          -10
+        ]
+      },
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "name":"racelessWayGarage",
+      "oldId":3918,
+      "top":{
+        "active":false,
+        "normal":[
+          0,
+          0,
+          1
+        ],
+        "pos":[
+          0,
+          0,
+          10
+        ]
+      },
+      "vertices":[
+        [
+          -1777.475586,
+          -97.50517273,
+          152.3951416
+        ],
+        [
+          -1778.120728,
+          -85.73934174,
+          152.2117767
+        ],
+        [
+          -1755.599854,
+          -83.83582306,
+          152.3584137
+        ],
+        [
+          -1755.393066,
+          -104.1791916,
+          152.2327576
+        ],
+        [
+          -1777.335449,
+          -103.4795303,
+          152.3161774
         ]
       ]
     }

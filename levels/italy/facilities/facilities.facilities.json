@@ -18,13 +18,70 @@
       ],
       "defaultPrice": 0,
       "capacity": 10
+    },
+    {
+      "id": "divisionLaneGarage",
+      "name": "107 Division Lane",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "divisionLaneGarage"
+      ],
+      "parkingSpotNames": [
+        "divisionLaneParking1",
+        "divisionLaneParking2"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 325000,
+      "capacity": 2
+    },
+    {
+      "id": "tristanLaneGarage",
+      "name": "353 Tristan Lane",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "tristanLaneGarage"
+      ],
+      "parkingSpotNames": [
+        "tristanLaneParking1"
+            ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 165000,
+      "capacity": 2
+    },
+    {
+      "id": "racelessWayGarage",
+      "name": "4371 Raceless Way",
+      "description": "This is the starter garage, humble beginnings.",
+      "preview": "garage_servicestation.jpg",
+      "zoneNames": [
+        "racelessWayGarage"
+      ],
+      "parkingSpotNames": [
+        "racelessWayParking1",
+        "racelessWayParking2",
+        "racelessWayParking3"
+      ],
+      "icon": "poi_garage_2_round",
+      "tags": [
+        "truck"
+      ],
+      "defaultPrice": 250000,
+      "capacity": 4
     }
   ],
   "computers": [
     {
       "id": "uncleGarageComputer_area",
       "garageId": "uncleGarage",
-      "name": "Uncle's Garage",
+      "name": "Uncle's Condo",
       "description": "ui.career.computer.bigmapLabel.garage",
       "preview": "commercialGarageComputer2.jpg",
       "doors": [
@@ -57,7 +114,119 @@
       "iconOffsetHeight": 0.24,
       "iconLift": 0.24,
       "icon": "poi_laptop_round"
+    },
+    {
+      "id": "divisionLaneGarageComputer_area",
+      "garageId": "divisionLaneGarage",
+      "name": "107 Division Lane",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "divisionLaneHomeComputer_area",
+          "divisionLaneHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    },
+    {
+      "id": "tristanLaneGarageComputer_area",
+      "garageId": "tristanLaneGarage",
+      "name": "353 Tristan Lane",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "tristanLaneHomeComputer_area",
+          "tristanLaneHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
+    },
+    {
+      "id": "racelessWayGarageComputer_area",
+      "garageId": "racelessWayGarage",
+      "name": "4371 Raceless Way",
+      "description": "ui.career.computer.bigmapLabel.garage",
+      "preview": "commercialGarageComputer2.jpg",
+      "doors": [
+        [
+          "racelessWayHomeComputer_area",
+          "racelessWayHomeComputer_icon"
+        ]
+      ],
+      "screens": [
+        "commercialGarageComputer_screen_2"
+      ],
+      "functions": {
+        "painting": true,
+        "tuning": true,
+        "vehicleInventory": true,
+        "vehicleShop": true,
+        "partShop": true,
+        "partInventory": true,
+        "insurancePolicies": true,
+        "sleep": true
+      },
+      "activityAcceptProps": [
+        {
+          "keyLabel": "Vehicle & Parts Management"
+        },
+        {
+          "keyLabel": "Vehicle & Parts Shopping"
+        }
+      ],
+      "iconOffsetHeight": 0.24,
+      "iconLift": 0.24,
+      "icon": "poi_laptop_round"
     }
+
   ],
   "gasStations": [
     {
