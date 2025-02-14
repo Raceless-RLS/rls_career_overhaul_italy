@@ -297,7 +297,7 @@
     },
     {
       "id":"portoAuto",
-      "name":"porto Auto Sales",
+      "name":"Porto Commerciale Auto Sales",
       "description":"",
       "stock": 9,
       "associatedOrganization":"",
@@ -342,7 +342,7 @@
     },
     {
       "id":"poliziaAuto",
-      "name":"polizia Auto Sales",
+      "name":"Polizia Auto Sales",
       "description":"",
       "stock": 9,
       "associatedOrganization":"",

@@ -2,7 +2,7 @@
     "deliveryProviders": [
         {
             "id": "pastaPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Pasta Port Storage",
             "description": "Somehow kept dry...",
             "facilityInformation": "",
@@ -38,7 +38,7 @@
         },
         {
             "id": "returnsPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Return Port Storage",
             "description": "Nobody knows where these go next...",
             "facilityInformation": "",
@@ -74,7 +74,7 @@
         },
         {
             "id": "fineFoodSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Fine Food Port Storage",
             "description": "Somehow kept dry...",
             "facilityInformation": "",
@@ -123,7 +123,7 @@
         },
         {
             "id": "clothesSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "clothes Supplies Port Storage",
             "description": "Should just shop here.",
             "facilityInformation": "",
@@ -159,7 +159,7 @@
         },
         {
             "id": "alcoholSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Alcohol Supplies Port Storage",
             "description": "There is no license for this?",
             "facilityInformation": "",
@@ -195,7 +195,7 @@
         },
         {
             "id": "tastiSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Tasti-Cola Supplies Port Storage",
             "description": "How come they get the fancy door?",
             "facilityInformation": "",
@@ -231,7 +231,7 @@
         },
         {
             "id": "crunchiesSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Crunchies Supplies Port Storage",
             "description": "This must be some good cereal.",
             "facilityInformation": "",
@@ -267,7 +267,7 @@
         },
         {
             "id": "medSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Medical Supplies Port Storage",
             "description": "Big warehouse for a small product",
             "facilityInformation": "",
@@ -303,7 +303,7 @@
         },
         {
             "id": "cosmeticSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Cosmetic Supplies Port Storage",
             "description": "I thought these were made locally...",
             "facilityInformation": "",
@@ -339,7 +339,7 @@
         },
         {
             "id": "carPartsSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Mechanical Supplies Port Storage",
             "description": "Aftermarket, OEM, it all comes from the same place...",
             "facilityInformation": "",
@@ -397,7 +397,7 @@
         },
         {
             "id": "norteFreightSuppliesPort",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Norte Freight Supplies Port Storage",
             "description": "Calling all truckers...",
             "facilityInformation": "",
@@ -457,7 +457,7 @@
         },
         {
             "id": "luceraFreightSupplies",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Lucera Freight Supplies Storage",
             "description": "I guess this is more long term storage",
             "facilityInformation": "",
@@ -506,7 +506,7 @@
         },
         {
             "id": "airportFreightSupplies",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Airport Freight Supplies Storage",
             "description": "Must be going somewhere important",
             "facilityInformation": "",
@@ -555,7 +555,7 @@
         },
         {
             "id": "fastelloFreightSupplies",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Fastello Freight Supplies Storage",
             "description": "Must have a big basement...",
             "facilityInformation": "",
@@ -604,7 +604,7 @@
         },
         {
             "id": "fastelloFreightSupplies",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Fastello Freight Supplies Storage",
             "description": "Must have a big basement...",
             "facilityInformation": "",
@@ -653,7 +653,7 @@
         },
         {
             "id": "portinoFreightSupplies",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Portino Freight Supplies Storage",
             "description": "No clue where they are going to put this stuff.",
             "facilityInformation": "",
@@ -702,7 +702,7 @@
         },
         {
             "id": "FBXGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "FBX Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -773,7 +773,7 @@
         },
         {
             "id": "FBXGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "FBX Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -854,7 +854,7 @@
         },
         {
             "id": "CarlinoGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Carlino Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -935,7 +935,7 @@
         },
         {
             "id": "BiancoGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Bianco Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -1016,7 +1016,7 @@
         },
         {
             "id": "PortinoGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Portino Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -1097,7 +1097,7 @@
         },
         {
             "id": "ClaudioGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Claudio Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -1178,7 +1178,7 @@
         },
         {
             "id": "TemerariaGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Temeraria Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
@@ -1259,7 +1259,7 @@
         },
         {
             "id": "GarantitoGarageDelivery",
-            "alwaysVisible": true,
+            "alwaysVisible": false,
             "name": "Garantito Garage Delivery",
             "description": "Part Delivery",
             "facilityInformation": "",
