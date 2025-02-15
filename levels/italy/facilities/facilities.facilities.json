@@ -3,7 +3,7 @@
     {
       "id": "uncleGarage",
       "name": "Uncle's Condo",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Why does Uncle have a condo in Italy?",
       "preview": "imageTBD.png",
       "zoneNames": [
         "uncleGarage"
@@ -22,7 +22,7 @@
     {
       "id": "divisionLaneGarage",
       "name": "107 Division Lane",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Beautiful view, or strategic overlook...",
       "preview": "imageTBD.png",
       "zoneNames": [
         "divisionLaneGarage"
@@ -41,7 +41,7 @@
     {
       "id": "tristanLaneGarage",
       "name": "353 Tristan Lane",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Rumor has it, he is coding right this second.",
       "preview": "imageTBD.png",
       "zoneNames": [
         "tristanLaneGarage"
@@ -59,7 +59,7 @@
     {
       "id": "racelessWayGarage",
       "name": "4371 Raceless Way",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "A lot of land for... activities",
       "preview": "imageTBD.png",
       "zoneNames": [
         "racelessWayGarage"
@@ -79,7 +79,7 @@
     {
       "id": "sumoStreetGarage",
       "name": "42 Sumo Street",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Leave a worthy comment and he shall appear",
       "preview": "imageTBD.png",
       "zoneNames": [
         "sumoStreetGarage"
@@ -92,13 +92,13 @@
       "tags": [
         "truck"
       ],
-      "defaultPrice": 275000,
+      "defaultPrice": 265000,
       "capacity": 2
     },
     {
       "id": "shiftTabCourtGarage",
       "name": "2410 ShiftTab Court",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Let's see him drift his way out of this driveway",
       "preview": "imageTBD.png",
       "zoneNames": [
         "shiftTabCourtGarage"
@@ -117,7 +117,7 @@
     {
       "id": "mcgroryAveGarage",
       "name": "213 McGrory Ave",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "The last owner got lost making videos",
       "preview": "imageTBD.png",
       "zoneNames": [
         "mcgroryAveGarage"
@@ -137,7 +137,7 @@
     {
       "id": "villaScuderiaGarage",
       "name": "Villa Scuderia",
-      "description": "This is the starter garage, humble beginnings.",
+      "description": "Scuderia team owner used to live here. I wonder where he went?",
       "preview": "imageTBD.png",
       "zoneNames": [
         "villaScuderiaGarage"

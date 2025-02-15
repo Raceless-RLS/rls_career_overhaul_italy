@@ -408,21 +408,21 @@
                     "psName": "norteFreightSuppliesPortParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies","freight2Supplies",
+                        "freightSupplies","freight2Supplies","freight3Supplies",
                         "farmSupplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies","freight2Supplies",
+                "freightSupplies","freight2Supplies","freight3Supplies",
                 "farmSupplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
@@ -438,7 +438,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 5,
@@ -447,7 +447,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 5,
@@ -468,26 +468,26 @@
                     "psName": "luceraFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -496,7 +496,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -517,26 +517,26 @@
                     "psName": "airportFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies","tiresSupplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies","tiresSupplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies","tiresSupplies"
+                "freightSupplies","freight2Supplies","freight3Supplies","tiresSupplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies","tiresSupplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies","tiresSupplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -545,7 +545,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -566,26 +566,26 @@
                     "psName": "fastelloFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -594,7 +594,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -615,26 +615,26 @@
                     "psName": "fastelloFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -643,7 +643,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 3,
@@ -664,26 +664,26 @@
                     "psName": "portinoFreightSuppliesParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "logisticTypesReceived": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticTypesReceived": [
-                "freightSupplies","freight2Supplies"
+                "freightSupplies","freight2Supplies","freight3Supplies"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 1,
@@ -692,7 +692,7 @@
                 {
                     "type": "parcelReceiver",
                     "logisticTypes": [
-                        "freightSupplies","freight2Supplies"
+                        "freightSupplies","freight2Supplies","freight3Supplies"
                     ],
                     "min": -1,
                     "max": 2,

@@ -3,7 +3,7 @@
     {
       "id":"claudioAuto",
       "name":"Claudio Auto",
-      "description":"Claudio Auto - New & quality JDM sales.",
+      "description":"New and used vehicles for a fair price.",
       "stock": 20,
       "range": [0.7, 0.90, 1.05, 1.1],
       "associatedOrganization":"",
@@ -49,7 +49,7 @@
     {
       "id":"garantitoAuto",
       "name":"Garantito Auto",
-      "description":"",
+      "description":"Used larger vehicles",
       "stock": 15,
       "range": [0.8, 0.90, 1.10, 1.3],
       "associatedOrganization":"",
@@ -98,7 +98,7 @@
     {
       "id":"temerariaAuto",
       "name":"Temeraria Auto",
-      "description":"",
+      "description":"The Finest new and used vehicles in Italy",
       "stock": 15,
       "range": [0.75, 0.90, 1.05, 1.1],
       "associatedOrganization":"",
@@ -147,7 +147,7 @@
     {
       "id":"FBXAuto",
       "name":"FBX Auto Sales",
-      "description":"",
+      "description":"Heavily used vehicles",
       "stock": 11,
       "range": [0.5, 0.70, 1.1, 1.4],
       "associatedOrganization":"",
@@ -164,7 +164,7 @@
       "subFilters": [
         {
           "probability":1,
-          "whiteList":{"Mileage":{"min":305000000, "max":816001971},"Value":{"max":35000}}
+          "whiteList":{"Mileage":{"min":305000000, "max":916001971},"Value":{"max":35000}}
         }
       ],
 
@@ -182,7 +182,7 @@
     {
       "id":"portinoAuto",
       "name":"Portino Auto Sales",
-      "description":"",
+      "description":"Used high end vehicles",
       "stock": 7,
       "associatedOrganization":"",
       "preview":"imageTBD.png",
@@ -216,7 +216,7 @@
     {
       "id":"biancoAuto",
       "name":"Bianco Auto Sales",
-      "description":"",
+      "description":"Custom vehicles of Italy",
       "stock": 8,
       "associatedOrganization":"",
       "preview":"imageTBD.png",
@@ -260,7 +260,7 @@
     {
       "id":"carlinoAuto",
       "name":"Carlino Auto Sales",
-      "description":"",
+      "description":"Moderately used mid-range vehicles",
       "stock": 9,
       "associatedOrganization":"",
       "preview":"imageTBD.png",
@@ -298,7 +298,7 @@
     {
       "id":"portoAuto",
       "name":"Porto Commerciale Auto Sales",
-      "description":"",
+      "description":"Commercial vehicles for sale",
       "stock": 9,
       "associatedOrganization":"",
       "preview":"imageTBD.png",
@@ -343,7 +343,7 @@
     {
       "id":"poliziaAuto",
       "name":"Polizia Auto Sales",
-      "description":"",
+      "description":"Registered police cars",
       "stock": 9,
       "associatedOrganization":"",
       "preview":"imageTBD.png",
