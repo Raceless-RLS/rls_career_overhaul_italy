@@ -348,7 +348,7 @@
       "associatedOrganization":"",
       "preview":"imageTBD.png",
       "doors":[["poliziaAuto_area","poliziaAuto_icon", 30]],
-      "parkingSpotNames":["portoAutoParking1"],
+      "parkingSpotNames":["poliziaAutoParking1"],
       "activityAcceptProps":[
         {"keyLabel":"New & Used Vehicles"}
       ],
