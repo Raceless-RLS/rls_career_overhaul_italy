@@ -1,0 +1,21 @@
+{
+  "races": {
+    "mountainClimb": {
+      "bestTime": 60,
+      "reward": 2000,
+      "checkpointRoad": "mountainClimb",
+      "reverse": true,
+      "apexOffset": 2,
+      "label": "Mountain Side Climb",
+      "type": ["offroad", "rally"]
+    },
+    "mountainDescent": {
+      "bestTime": 55,
+      "reward": 2000,
+      "checkpointRoad": "mountainClimb",
+      "apexOffset": 1,
+      "label": "Mountain Side Descent",
+      "type": ["offroad", "rally"]
+    }
+  }
+}

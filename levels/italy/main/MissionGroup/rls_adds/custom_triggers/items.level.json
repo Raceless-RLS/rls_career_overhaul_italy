@@ -1,1 +1,2 @@
 {"name":"policeAssignment","class":"BeamNGTrigger","__parent":"custom_triggers","position":[172.520447,1403.77258,188.661621],"rotationMatrix":[0.706649899,-0.707563102,0,0.707521975,0.706608772,-0.0107819699,0.00762885902,0.00761908386,0.999941647],"scale":[5.60817719,3.62867069,3.98156929]}
+{"name":"FREs","class":"SimGroup","__parent":"custom_triggers"}
