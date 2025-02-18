@@ -1,0 +1,35 @@
+{
+  "clutter_commercial": {
+    "name": "clutter_commercial",
+    "mapTo": "clutter_commercial",
+    "class": "Material",
+    "persistentId": "bef10247-df48-4f55-b111-303c87da4cc0",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/italy/art/shapes/objects/clutter_commercial_b.color.png",
+        "opacityMap": "/levels/italy/art/shapes/objects/clutter_commercial_o.data.png",
+        "roughnessFactor": 0.607767701,
+        "vertColor": true
+      },
+      {
+        "roughnessFactor": null,
+        "vertColor": null
+      },
+      {
+        "roughnessFactor": null,
+        "vertColor": null
+      },
+      {
+        "roughnessFactor": null,
+        "vertColor": null
+      }
+    ],
+    "alphaRef": 64,
+    "alphaTest": true,
+    "annotation": "BUILDINGS",
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

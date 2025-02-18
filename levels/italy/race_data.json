@@ -16,6 +16,38 @@
       "apexOffset": 1,
       "label": "Mountain Side Descent",
       "type": ["offroad", "rally"]
-    }
+    },
+    "norteRallyStage1": {
+      "bestTime": 120,
+      "reward": 2000,
+      "checkpointRoad": "norteRallyStage1",
+      "apexOffset": 1,
+      "label": "Stage 1 of the Norte Rally",
+      "type": ["offroad", "rally"]
+    },
+  "norteRallyStage2": {
+    "bestTime": 110,
+    "reward": 2000,
+    "checkpointRoad": "norteRallyStage2",
+    "apexOffset": 1,
+    "label": "Stage 2 of the Norte Rally",
+    "type": ["offroad", "rally"]
+  },
+  "norteRallyStage3": {
+    "bestTime": 180,
+    "reward": 2500,
+    "checkpointRoad": "norteRallyStage3",
+    "apexOffset": 1,
+    "label": "Stage 2 of the Norte Rally",
+    "type": ["offroad", "rally"]
+  },
+  "norteRallyStage4": {
+    "bestTime": 165,
+    "reward": 2250,
+    "checkpointRoad": "norteRallyStage4",
+    "apexOffset": 1,
+    "label": "Stage 2 of the Norte Rally",
+    "type": ["offroad", "rally"]
+  }
   }
 }

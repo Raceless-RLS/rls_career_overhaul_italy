@@ -1,2 +1,6 @@
 {"name":"MountainHillClimb","class":"SimGroup","__parent":"FREs"}
 {"name":"MountainSideDescent","class":"SimGroup","__parent":"FREs"}
+{"name":"Norte Rally Stage 1","class":"SimGroup","__parent":"FREs"}
+{"name":"Norte Rally Stage 2","class":"SimGroup","__parent":"FREs"}
+{"name":"Norte Rally Stage 3","class":"SimGroup","__parent":"FREs"}
+{"name":"Norte Rally Stage 4","class":"SimGroup","__parent":"FREs"}
