@@ -1,0 +1,30 @@
+{
+  "type":"custom",
+  "data":[
+    {
+      "config":"vivace_polizia",
+      "model":"vivace"
+    },
+    {
+      "config":"polizia",
+      "model":"scintilla"
+    },
+    {
+      "config":"polizia",
+      "model":"bolide"
+    },
+    {
+      "config":"polizia",
+      "model":"bolide"
+    },
+    {
+      "config":"polizia",
+      "model":"scintilla"
+    }
+  ],
+  "name":"Italy - Police",
+  "tags":[
+    "italy",
+    "police"
+  ]
+}

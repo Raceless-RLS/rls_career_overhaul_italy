@@ -16,8 +16,9 @@
       "tags": [
         "truck"
       ],
-      "defaultPrice": 0,
-      "capacity": 2
+      "defaultPrice": 65000,
+      "capacity": 2,
+      "starterGarage": true
     },
     {
       "id": "divisionLaneGarage",
