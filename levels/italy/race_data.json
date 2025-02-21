@@ -68,9 +68,9 @@
       ]
     },
     "norteOutskirtsCircuit": {
-      "bestTime": 165,
-      "hotlap": 150,
-      "reward": 2250,
+      "bestTime": 90,
+      "hotlap": 85,
+      "reward": 1750,
       "checkpointRoad": "norteOutskirtsCircuit",
       "apexOffset": 1,
       "label": "Norte Outskirts Circuit",
