@@ -1,0 +1,27 @@
+{
+  "binaryFormat": "version(char), size(unsigned int), heightMap(heightMapSize * heightMapItemSize), layerMap(layerMapSize * layerMapItemSize), layerTextureMap(layerMapSize * layerMapItemSize), materialNames",
+  "datafile": "/levels/italy/theTerrain.ter",
+  "heightMapItemSize": 2,
+  "heightMapSize": 16777216,
+  "heightmapImage": "/levels/italy/theTerrain.terrainheightmap.png",
+  "layerMapItemSize": 1,
+  "layerMapSize": 16777216,
+  "materials": [
+    "groundmodel_asphalt1",
+    "Grass2",
+    "Grass3",
+    "Grass4",
+    "Rock",
+    "RockyDirt",
+    "BeachSand",
+    "asphalt",
+    "asphalt2",
+    "groundmodel_asphalt_old",
+    "dirt_loose_dusty",
+    "dirt_loose",
+    "forest_floor",
+    "Grass"
+  ],
+  "size": 4096,
+  "version": 9
+}
