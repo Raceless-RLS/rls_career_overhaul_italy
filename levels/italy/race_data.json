@@ -79,8 +79,7 @@
         "motorsport"
       ]
     },
-    "races": {
-      "rockCrawlCentral": {
+        "rockCrawlCentral": {
         "bestTime": 55,
         "reward": 2000,
         "checkpointRoad": "rockCrawlCentral",
@@ -125,10 +124,9 @@
 "driftGoal": 4000,
 "reward": 1500,
 "reverse": true,
-"checkpointRoad": "castellettoDriftR",
+"checkpointRoad": "castellettoDrift",
 "label": "Castelletto Drift Reverse",
 "type": ["motorsport", "drift"],
 "minCheckpointDistance": 20
-}
 }
 }
