@@ -6364,14 +6364,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6391,7 +6393,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6409,14 +6468,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6436,7 +6497,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6454,14 +6572,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6481,7 +6601,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6499,14 +6676,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6526,7 +6705,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6544,14 +6780,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6571,7 +6809,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6589,14 +6884,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6616,7 +6913,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6634,14 +6988,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6661,7 +7017,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6679,14 +7092,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6706,7 +7121,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6724,14 +7196,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6751,7 +7225,64 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "mediumCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferProvider",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
+                },
+                {
+                  "type": "trailerOfferReceiver",
+                  "interval": 120,
+                  "min": 1,
+                  "max": 4,
+                  "offerDuration": {
+                      "min": 300,
+                      "max": 600
+                  },
+                  "filter": "smallCratePlanksTrailers",
+                  "logisticTypes": [
+                      "trailerDeliveryConstructionMaterials"
+                  ]
                 }
+                
             ]
         },
         {
@@ -6769,14 +7300,16 @@
                     "logisticTypesProvided": [
                         "CropsSupplies"
                     ],
-                    "logisticTypesReceived": ["farmSupplies"]
+                    "logisticTypesReceived": ["farmSupplies",
+                    "trailerDeliveryConstructionMaterials"]
                 }
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
                 "CropsSupplies"
             ],
-            "logisticTypesReceived": ["farmSupplies"],
+            "logisticTypesReceived": ["farmSupplies",
+            "trailerDeliveryConstructionMaterials"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -6796,7 +7329,63 @@
                     "min": -2,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 4,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "mediumCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  },
+                  {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 4,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "mediumCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  },
+                  {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 4,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "smallCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  },
+                  {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 4,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "smallCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  }
             ]
         }
     ]

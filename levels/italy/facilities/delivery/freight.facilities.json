@@ -352,18 +352,22 @@
                     "logisticTypesProvided": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished","vehLargeTruck",
+                    "vehLargeTruckNeedsRepair","vehDeliveryAmbulance","vehDeliveryPolice"
                     ],
-                    "logisticTypesReceived": []
+                    "logisticTypesReceived": ["vehNeedsRepair","vehForPrivate","vehRepairFinished","vehLargeTruck",
+                    "vehLargeTruckNeedsRepair","vehDeliveryAmbulance","vehDeliveryPolice"]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished","vehLargeTruck",
+                    "vehLargeTruckNeedsRepair","vehDeliveryAmbulance","vehDeliveryPolice"
             ],
-            "logisticTypesReceived": [],
+            "logisticTypesReceived": ["vehNeedsRepair","vehForPrivate","vehRepairFinished","vehLargeTruck",
+            "vehLargeTruckNeedsRepair","vehDeliveryAmbulance","vehDeliveryPolice"],
             "logisticMaxItems": 10,
             "logisticGenerators": [
                 {
@@ -392,7 +396,170 @@
                     "min": -1,
                     "max": 3,
                     "interval": 60
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"junkerVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"customizedVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"ambulanceFleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"largeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"fleetLargeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"fleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"policeFleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },                  
+                {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"junkerVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"customizedVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"ambulanceFleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"largeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"fleetLargeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"fleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                  "filter":"policeFleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
+                  
             ]
         },
         {
@@ -524,7 +691,35 @@
                     "logisticTypes": [
                         "trailerDeliveryConstructionMaterials"
                     ]
-                }
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 6,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "mediumCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  },
+                  {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 6,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "smallCratePlanksTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                  }
             ]
         },
         {
@@ -1027,23 +1222,27 @@
                     "psName": "FBXGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1082,7 +1281,25 @@
                     "min": -4,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                    "filter":"junkerVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+                    "filter":"junkerVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
             ]
         },
         {
@@ -1098,23 +1315,27 @@
                     "psName": "CarlinoGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1163,7 +1384,25 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 7,
+                    "offerDuration":{"min":300,"max":900},
+          "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 7,
+                    "offerDuration":{"min":300,"max":900},
+          "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
             ]
         },
         {
@@ -1179,23 +1418,27 @@
                     "psName": "BiancoGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1244,7 +1487,25 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"customizedVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"customizedVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
             ]
         },
         {
@@ -1260,23 +1521,23 @@
                     "psName": "PortinoGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1325,7 +1586,25 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
             ]
         },
         {
@@ -1341,23 +1620,27 @@
                     "psName": "ClaudioGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1406,7 +1689,25 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 15,
+                    "offerDuration":{"min":300,"max":900},
+          "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 15,
+                    "offerDuration":{"min":300,"max":900},
+          "filter":"smallVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
             ]
         },
         {
@@ -1422,23 +1723,23 @@
                     "psName": "TemerariaGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1487,7 +1788,26 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 15,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 10,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"exoticVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
+
             ]
         },
         {
@@ -1503,23 +1823,27 @@
                     "psName": "GarantitoGarageDeliveryParking",
                     "isInspectSpot": true,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ],
                     "logisticTypesReceived": [
                         "carPartsLightSupplies",
                         "carPartsHeavySupplies",
-                        "tiresSupplies"
+                        "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
                     ]
                 }
             ],
             "sitesFile": "freight.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                "refundReturns","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticTypesReceived": [
                 "carPartsLightSupplies",
                 "carPartsHeavySupplies",
-                "tiresSupplies"
+                "tiresSupplies","vehNeedsRepair","vehForPrivate","vehRepairFinished"
+
             ],
             "logisticMaxItems": 5,
             "logisticGenerators": [
@@ -1568,7 +1892,44 @@
                     "min": -3,
                     "max": 1,
                     "interval": 120
-                }
+                },
+                {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"fleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"fleetVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferProvider",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"largeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  },
+                  {
+                    "type":"vehOfferReceiver",
+                    "interval":150,
+                    "min":0,
+                    "max": 5,
+                    "offerDuration":{"min":300,"max":900},
+"filter":"largeVehFilter",
+                    "logisticTypes":["vehNeedsRepair","vehForPrivate","vehRepairFinished"]
+                  }
+          
             ]
         }
     ]
