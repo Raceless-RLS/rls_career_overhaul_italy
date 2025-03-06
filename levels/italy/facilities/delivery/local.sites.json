@@ -19,7 +19,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking101",
-      "oldId":963,
+      "oldId":1006,
       "pos":[
         699.0350952,
         1384.561035,
@@ -55,7 +55,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking123",
-      "oldId":964,
+      "oldId":1007,
       "pos":[
         866.9768066,
         1311.044312,
@@ -91,7 +91,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking134",
-      "oldId":965,
+      "oldId":1008,
       "pos":[
         1047.526733,
         1323.030151,
@@ -127,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking141",
-      "oldId":966,
+      "oldId":1009,
       "pos":[
         829.8277588,
         1323.056152,
@@ -163,7 +163,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking157",
-      "oldId":967,
+      "oldId":1010,
       "pos":[
         1079.64563,
         1227.014526,
@@ -199,7 +199,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking169",
-      "oldId":968,
+      "oldId":1011,
       "pos":[
         1339.937256,
         1241.950439,
@@ -235,7 +235,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking202",
-      "oldId":969,
+      "oldId":1012,
       "pos":[
         1093.117798,
         -582.204834,
@@ -271,7 +271,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking216",
-      "oldId":970,
+      "oldId":1013,
       "pos":[
         1099.17981,
         -737.5292358,
@@ -307,7 +307,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking227",
-      "oldId":971,
+      "oldId":1014,
       "pos":[
         1118.891602,
         -702.4766846,
@@ -343,7 +343,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking305",
-      "oldId":972,
+      "oldId":1015,
       "pos":[
         -1748.820679,
         1473.25354,
@@ -379,7 +379,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking105",
-      "oldId":973,
+      "oldId":1016,
       "pos":[
         739.3093872,
         1359.359009,
@@ -415,7 +415,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking112",
-      "oldId":974,
+      "oldId":1017,
       "pos":[
         901.3947144,
         1322.743896,
@@ -451,7 +451,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking118",
-      "oldId":975,
+      "oldId":1018,
       "pos":[
         919.6575317,
         1357.020508,
@@ -487,7 +487,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking124",
-      "oldId":976,
+      "oldId":1019,
       "pos":[
         1000.246887,
         1311.022949,
@@ -523,7 +523,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking137",
-      "oldId":977,
+      "oldId":1020,
       "pos":[
         1074.746338,
         1323.041748,
@@ -559,7 +559,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking142",
-      "oldId":978,
+      "oldId":1021,
       "pos":[
         1263.858765,
         1321.253052,
@@ -595,7 +595,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking148",
-      "oldId":979,
+      "oldId":1022,
       "pos":[
         1369.864746,
         1366.779785,
@@ -631,7 +631,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking807",
-      "oldId":980,
+      "oldId":1023,
       "pos":[
         170.3845367,
         -399.8537598,
@@ -667,7 +667,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking303",
-      "oldId":981,
+      "oldId":1024,
       "pos":[
         -1712.908936,
         1405.309814,
@@ -703,7 +703,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking604",
-      "oldId":982,
+      "oldId":1025,
       "pos":[
         -740.2961426,
         -1385.899048,
@@ -739,7 +739,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking109",
-      "oldId":983,
+      "oldId":1026,
       "pos":[
         680.5430298,
         1386.303833,
@@ -775,7 +775,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking111",
-      "oldId":984,
+      "oldId":1027,
       "pos":[
         1129.470825,
         1354.760864,
@@ -811,7 +811,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking301",
-      "oldId":985,
+      "oldId":1028,
       "pos":[
         -1765.090332,
         1507.449097,
@@ -847,7 +847,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking313",
-      "oldId":986,
+      "oldId":1029,
       "pos":[
         -1713.67395,
         1392.865601,
@@ -883,7 +883,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking117",
-      "oldId":987,
+      "oldId":1030,
       "pos":[
         814.8637695,
         1311.033813,
@@ -919,7 +919,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking120",
-      "oldId":988,
+      "oldId":1031,
       "pos":[
         1239.61792,
         1303.897705,
@@ -955,7 +955,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking128",
-      "oldId":989,
+      "oldId":1032,
       "pos":[
         1012.67865,
         1322.917603,
@@ -991,7 +991,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking133",
-      "oldId":990,
+      "oldId":1033,
       "pos":[
         943.4755249,
         1323.054443,
@@ -1027,7 +1027,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking142",
-      "oldId":991,
+      "oldId":1034,
       "pos":[
         792.614624,
         1324.405518,
@@ -1063,7 +1063,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking156",
-      "oldId":992,
+      "oldId":1035,
       "pos":[
         763.4289551,
         1320.765381,
@@ -1099,7 +1099,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking165",
-      "oldId":993,
+      "oldId":1036,
       "pos":[
         783.4028931,
         1312.721191,
@@ -1135,7 +1135,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking177",
-      "oldId":994,
+      "oldId":1037,
       "pos":[
         808.2775269,
         1311.19043,
@@ -1171,7 +1171,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking179",
-      "oldId":995,
+      "oldId":1038,
       "pos":[
         1020.488159,
         1322.944824,
@@ -1207,7 +1207,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking181",
-      "oldId":996,
+      "oldId":1039,
       "pos":[
         1063.890503,
         1132.763794,
@@ -1243,7 +1243,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking149",
-      "oldId":997,
+      "oldId":1040,
       "pos":[
         1057.697021,
         1132.974121,
@@ -1279,7 +1279,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking185",
-      "oldId":998,
+      "oldId":1041,
       "pos":[
         1285.353882,
         1363.784424,
@@ -1315,7 +1315,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking152",
-      "oldId":999,
+      "oldId":1042,
       "pos":[
         1276.915283,
         1364.087402,
@@ -1351,7 +1351,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking166",
-      "oldId":1000,
+      "oldId":1043,
       "pos":[
         686.4941406,
         1419.123047,
@@ -1387,7 +1387,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking701",
-      "oldId":1001,
+      "oldId":1044,
       "pos":[
         -982.2859497,
         916.0075684,
@@ -1423,7 +1423,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking703",
-      "oldId":1002,
+      "oldId":1045,
       "pos":[
         -1009.838623,
         916.8770752,
@@ -1459,7 +1459,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking320",
-      "oldId":1003,
+      "oldId":1046,
       "pos":[
         -1712.293823,
         1461.264526,
@@ -1495,7 +1495,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking720",
-      "oldId":1004,
+      "oldId":1047,
       "pos":[
         -950.0281982,
         900.5459595,
@@ -1531,7 +1531,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking721",
-      "oldId":1005,
+      "oldId":1048,
       "pos":[
         -1047.564941,
         902.1560669,
@@ -1567,7 +1567,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking722",
-      "oldId":1006,
+      "oldId":1049,
       "pos":[
         -1013.192932,
         933.8747559,
@@ -1603,7 +1603,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking323",
-      "oldId":1007,
+      "oldId":1050,
       "pos":[
         -1718.566284,
         1421.594971,
@@ -1639,7 +1639,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking325",
-      "oldId":1008,
+      "oldId":1051,
       "pos":[
         -1747.498047,
         1459.261719,
@@ -1675,7 +1675,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking101",
-      "oldId":1009,
+      "oldId":1052,
       "pos":[
         1258.116089,
         1270.017578,
@@ -1711,7 +1711,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking190",
-      "oldId":1010,
+      "oldId":1053,
       "pos":[
         1342.160278,
         1367.010254,
@@ -1747,7 +1747,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking230",
-      "oldId":1011,
+      "oldId":1054,
       "pos":[
         1108.338623,
         -736.074646,
@@ -1783,7 +1783,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking191",
-      "oldId":1012,
+      "oldId":1055,
       "pos":[
         1187.495728,
         1318.067627,
@@ -1819,7 +1819,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking192",
-      "oldId":1013,
+      "oldId":1056,
       "pos":[
         1320.900879,
         1240.434326,
@@ -1855,7 +1855,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking193",
-      "oldId":1014,
+      "oldId":1057,
       "pos":[
         1072.781128,
         1357.029541,
@@ -1891,7 +1891,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking195",
-      "oldId":1015,
+      "oldId":1058,
       "pos":[
         1068.609375,
         1310.960083,
@@ -1927,7 +1927,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking240",
-      "oldId":1016,
+      "oldId":1059,
       "pos":[
         1093.827515,
         -592.5099487,
@@ -1963,7 +1963,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking241",
-      "oldId":1017,
+      "oldId":1060,
       "pos":[
         1155.064453,
         -662.737915,
@@ -1999,7 +1999,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking242",
-      "oldId":1018,
+      "oldId":1061,
       "pos":[
         1269.744507,
         1354.990601,
@@ -2035,7 +2035,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking340",
-      "oldId":1019,
+      "oldId":1062,
       "pos":[
         -1736.485962,
         1302.947754,
@@ -2071,7 +2071,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking740",
-      "oldId":1020,
+      "oldId":1063,
       "pos":[
         -1013.265808,
         945.4609985,
@@ -2107,7 +2107,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking196",
-      "oldId":1021,
+      "oldId":1064,
       "pos":[
         1102.062622,
         -665.0776978,
@@ -2143,7 +2143,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking802",
-      "oldId":1022,
+      "oldId":1065,
       "pos":[
         128.0144196,
         -387.5152588,
@@ -2179,7 +2179,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking101",
-      "oldId":1023,
+      "oldId":1066,
       "pos":[
         835.996582,
         1323.019897,
@@ -2215,7 +2215,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking102",
-      "oldId":1024,
+      "oldId":1067,
       "pos":[
         990.7774048,
         1323.039673,
@@ -2251,7 +2251,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking801",
-      "oldId":1025,
+      "oldId":1068,
       "pos":[
         164.0935669,
         -374.8699341,
@@ -2287,7 +2287,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking103",
-      "oldId":1026,
+      "oldId":1069,
       "pos":[
         1389.439453,
         1373.850708,
@@ -2323,7 +2323,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking701",
-      "oldId":1027,
+      "oldId":1070,
       "pos":[
         -1013.111511,
         909.7786255,
@@ -2359,7 +2359,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking201",
-      "oldId":1028,
+      "oldId":1071,
       "pos":[
         1154.75061,
         -739.5814209,
@@ -2395,7 +2395,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking802",
-      "oldId":1029,
+      "oldId":1072,
       "pos":[
         147.7539063,
         -366.9783325,
@@ -2431,7 +2431,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking301",
-      "oldId":1030,
+      "oldId":1073,
       "pos":[
         -1770.692505,
         1257.404419,
@@ -2467,7 +2467,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking105",
-      "oldId":1031,
+      "oldId":1074,
       "pos":[
         929.4641724,
         1322.806274,
@@ -2503,7 +2503,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking106",
-      "oldId":1032,
+      "oldId":1075,
       "pos":[
         826.0471191,
         1357.183838,
@@ -2539,7 +2539,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking203",
-      "oldId":1033,
+      "oldId":1076,
       "pos":[
         1155.324829,
         -682.5322266,
@@ -2575,7 +2575,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking804",
-      "oldId":1034,
+      "oldId":1077,
       "pos":[
         148.7887726,
         -375.0185242,
@@ -2611,7 +2611,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking110",
-      "oldId":1035,
+      "oldId":1078,
       "pos":[
         800.3217163,
         1311.22583,
@@ -2647,7 +2647,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking111",
-      "oldId":1036,
+      "oldId":1079,
       "pos":[
         1296.193604,
         1363.940308,
@@ -2683,7 +2683,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking112",
-      "oldId":1037,
+      "oldId":1080,
       "pos":[
         1028.275146,
         1322.845337,
@@ -2719,7 +2719,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking113",
-      "oldId":1038,
+      "oldId":1081,
       "pos":[
         1071.661987,
         1132.970581,
@@ -2755,7 +2755,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking250",
-      "oldId":1039,
+      "oldId":1082,
       "pos":[
         1157.300659,
         -764.2739868,
@@ -2791,7 +2791,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking251",
-      "oldId":1040,
+      "oldId":1083,
       "pos":[
         1082.076172,
         -767.2839966,
@@ -2827,7 +2827,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking151",
-      "oldId":1041,
+      "oldId":1084,
       "pos":[
         1063.498657,
         1166.913696,
@@ -2863,7 +2863,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking153",
-      "oldId":1042,
+      "oldId":1085,
       "pos":[
         1069.186279,
         1227.040894,
@@ -2899,7 +2899,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking601",
-      "oldId":1043,
+      "oldId":1086,
       "pos":[
         -794.3727417,
         -1374.738037,
@@ -2935,7 +2935,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking720",
-      "oldId":1044,
+      "oldId":1087,
       "pos":[
         -1038.713501,
         909.6181641,
@@ -2971,7 +2971,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking320",
-      "oldId":1045,
+      "oldId":1088,
       "pos":[
         -1748.99353,
         1492.709351,
@@ -3007,7 +3007,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking321",
-      "oldId":1046,
+      "oldId":1089,
       "pos":[
         -1755.207397,
         1360.425415,
@@ -3043,7 +3043,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking801",
-      "oldId":1047,
+      "oldId":1090,
       "pos":[
         155.2841339,
         -406.1582947,
@@ -3079,7 +3079,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking101",
-      "oldId":1048,
+      "oldId":1091,
       "pos":[
         732.7023926,
         1365.980835,
@@ -3115,7 +3115,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking102",
-      "oldId":1049,
+      "oldId":1092,
       "pos":[
         893.4922485,
         1323.068237,
@@ -3151,7 +3151,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking301",
-      "oldId":1050,
+      "oldId":1093,
       "pos":[
         -1707.144775,
         1418.333984,
@@ -3187,7 +3187,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking103",
-      "oldId":1051,
+      "oldId":1094,
       "pos":[
         1359.410278,
         1367.113892,
@@ -3223,7 +3223,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking104",
-      "oldId":1052,
+      "oldId":1095,
       "pos":[
         1254.068726,
         1320.309692,
@@ -3259,7 +3259,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking105",
-      "oldId":1053,
+      "oldId":1096,
       "pos":[
         1065.718628,
         1322.998047,
@@ -3295,7 +3295,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking106",
-      "oldId":1054,
+      "oldId":1097,
       "pos":[
         1009.900818,
         1311.272461,
@@ -3331,7 +3331,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking107",
-      "oldId":1055,
+      "oldId":1098,
       "pos":[
         929.6657104,
         1357.327637,
@@ -3367,7 +3367,7 @@
       },
       "isMultiSpot":false,
       "name":"farmaciaParking601",
-      "oldId":1056,
+      "oldId":1099,
       "pos":[
         -732.7987061,
         -1377.002563,
@@ -3403,7 +3403,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking301",
-      "oldId":1057,
+      "oldId":1100,
       "pos":[
         -1717.966064,
         1492.105347,
@@ -3439,7 +3439,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking201",
-      "oldId":1058,
+      "oldId":1101,
       "pos":[
         1155.100586,
         -669.1932373,
@@ -3475,7 +3475,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking801",
-      "oldId":1059,
+      "oldId":1102,
       "pos":[
         139.4356079,
         -374.9768982,
@@ -3511,7 +3511,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking302",
-      "oldId":1060,
+      "oldId":1103,
       "pos":[
         -1748.861084,
         1312.549316,
@@ -3547,7 +3547,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking303",
-      "oldId":1061,
+      "oldId":1104,
       "pos":[
         -1733.479126,
         1371.060303,
@@ -3583,7 +3583,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking202",
-      "oldId":1062,
+      "oldId":1105,
       "pos":[
         1107.889282,
         -653.4963989,
@@ -3619,7 +3619,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking105",
-      "oldId":1063,
+      "oldId":1106,
       "pos":[
         1282.312012,
         1346.768677,
@@ -3655,7 +3655,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking701",
-      "oldId":1064,
+      "oldId":1107,
       "pos":[
         -1005.054443,
         956.8498535,
@@ -3691,7 +3691,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking207",
-      "oldId":1065,
+      "oldId":1108,
       "pos":[
         1088.105469,
         -603.124939,
@@ -3727,7 +3727,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking108",
-      "oldId":1066,
+      "oldId":1109,
       "pos":[
         1034.695068,
         1348.781738,
@@ -3763,7 +3763,7 @@
       },
       "isMultiSpot":false,
       "name":"cornerParking631",
-      "oldId":1067,
+      "oldId":1110,
       "pos":[
         -749.7185669,
         -1390.65979,
@@ -3799,7 +3799,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking901",
-      "oldId":1068,
+      "oldId":1111,
       "pos":[
         245.1581116,
         -882.7077637,
@@ -3835,7 +3835,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking902",
-      "oldId":1069,
+      "oldId":1112,
       "pos":[
         330.0263367,
         -880.1671143,
@@ -3871,7 +3871,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking903",
-      "oldId":1070,
+      "oldId":1113,
       "pos":[
         226.9401398,
         -953.8339844,
@@ -3907,7 +3907,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking901",
-      "oldId":1071,
+      "oldId":1114,
       "pos":[
         288.1111755,
         -873.2779541,
@@ -3943,7 +3943,7 @@
       },
       "isMultiSpot":false,
       "name":"enotecaParking906",
-      "oldId":1072,
+      "oldId":1115,
       "pos":[
         292.0521545,
         -875.8739014,
@@ -3979,7 +3979,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking903",
-      "oldId":1073,
+      "oldId":1116,
       "pos":[
         354.5714417,
         -872.8973389,
@@ -4015,7 +4015,7 @@
       },
       "isMultiSpot":false,
       "name":"macelleriaParking904",
-      "oldId":1074,
+      "oldId":1117,
       "pos":[
         207.732666,
         -976.4883423,
@@ -4051,7 +4051,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking901",
-      "oldId":1075,
+      "oldId":1118,
       "pos":[
         233.211853,
         -928.0952148,
@@ -4087,7 +4087,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking902",
-      "oldId":1076,
+      "oldId":1119,
       "pos":[
         296.2037354,
         -867.8900757,
@@ -4123,7 +4123,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking901",
-      "oldId":1077,
+      "oldId":1120,
       "pos":[
         226.3379669,
         -969.9199219,
@@ -4159,7 +4159,7 @@
       },
       "isMultiSpot":false,
       "name":"abbigliamentoParking903",
-      "oldId":1078,
+      "oldId":1121,
       "pos":[
         290.302124,
         -916.6415405,
@@ -4195,7 +4195,7 @@
       },
       "isMultiSpot":false,
       "name":"panificioParking902",
-      "oldId":1079,
+      "oldId":1122,
       "pos":[
         283.3774719,
         -876.7537842,
@@ -4231,7 +4231,7 @@
       },
       "isMultiSpot":false,
       "name":"farm101Parking",
-      "oldId":1080,
+      "oldId":1123,
       "pos":[
         256.824585,
         577.5211792,
@@ -4267,7 +4267,7 @@
       },
       "isMultiSpot":false,
       "name":"farm102Parking",
-      "oldId":1081,
+      "oldId":1124,
       "pos":[
         76.97234344,
         401.4797668,
@@ -4303,7 +4303,7 @@
       },
       "isMultiSpot":false,
       "name":"farm103Parking",
-      "oldId":1082,
+      "oldId":1125,
       "pos":[
         320.4753418,
         246.0042114,
@@ -4339,7 +4339,7 @@
       },
       "isMultiSpot":false,
       "name":"farm104Parking",
-      "oldId":1083,
+      "oldId":1126,
       "pos":[
         818.2955322,
         199.1826782,
@@ -4375,7 +4375,7 @@
       },
       "isMultiSpot":false,
       "name":"farm105Parking",
-      "oldId":1084,
+      "oldId":1127,
       "pos":[
         1091.202393,
         560.8341675,
@@ -4411,7 +4411,7 @@
       },
       "isMultiSpot":false,
       "name":"farm106Parking",
-      "oldId":1085,
+      "oldId":1128,
       "pos":[
         -105.5990677,
         875.1583862,
@@ -4447,17 +4447,17 @@
       },
       "isMultiSpot":false,
       "name":"farm207Parking",
-      "oldId":1086,
+      "oldId":1129,
       "pos":[
-        -1762.409668,
-        -102.1030426,
-        152.5099487
+        1854.361694,
+        -1309.108276,
+        158.6008301
       ],
       "rot":[
         0,
         0,
-        -0.7840817571,
-        0.6206576824
+        -0.9872831571,
+        -0.1589726651
       ],
       "scl":[
         2.5,
@@ -4483,7 +4483,7 @@
       },
       "isMultiSpot":false,
       "name":"farm308Parking",
-      "oldId":1087,
+      "oldId":1130,
       "pos":[
         1821.990112,
         -817.6742554,
@@ -4519,7 +4519,7 @@
       },
       "isMultiSpot":false,
       "name":"farm406Parking",
-      "oldId":1088,
+      "oldId":1131,
       "pos":[
         818.5699463,
         -677.2001953,
@@ -4555,7 +4555,7 @@
       },
       "isMultiSpot":false,
       "name":"farm110Parking",
-      "oldId":1089,
+      "oldId":1132,
       "pos":[
         306.9566345,
         -160.674118,

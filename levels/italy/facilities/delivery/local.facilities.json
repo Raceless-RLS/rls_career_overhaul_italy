@@ -11,9 +11,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking101",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -22,7 +22,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -41,7 +41,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -60,9 +60,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking123",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -71,7 +71,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -90,7 +90,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -109,9 +109,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking134",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -120,7 +120,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -139,7 +139,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -158,9 +158,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking141",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -169,7 +169,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -188,7 +188,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -207,9 +207,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking157",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -218,7 +218,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -237,7 +237,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -256,9 +256,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking169",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -267,7 +267,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -286,7 +286,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -305,9 +305,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking202",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -316,7 +316,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -335,7 +335,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -354,9 +354,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking216",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -365,7 +365,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -384,7 +384,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -403,9 +403,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking227",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -414,7 +414,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -433,7 +433,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -452,9 +452,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking305",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -463,7 +463,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -482,7 +482,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -501,9 +501,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking105",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -512,7 +512,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -531,7 +531,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -550,9 +550,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking112",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -561,7 +561,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -580,7 +580,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -599,9 +599,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking118",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -610,7 +610,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -629,7 +629,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -648,9 +648,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking124",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -659,7 +659,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -678,7 +678,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -697,9 +697,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking137",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -708,7 +708,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -727,7 +727,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -746,9 +746,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking142",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -757,7 +757,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -776,7 +776,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -795,9 +795,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking148",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -806,7 +806,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -825,7 +825,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -844,9 +844,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking807",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -855,7 +855,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -874,7 +874,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -893,9 +893,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking303",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -904,7 +904,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -923,7 +923,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -942,9 +942,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking604",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -953,7 +953,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -972,7 +972,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -991,9 +991,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking109",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1002,7 +1002,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1021,7 +1021,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1040,9 +1040,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking111",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1051,7 +1051,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1070,7 +1070,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1089,9 +1089,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking301",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1100,7 +1100,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1119,7 +1119,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1138,9 +1138,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking313",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1149,7 +1149,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1168,7 +1168,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1187,9 +1187,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking117",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1198,7 +1198,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1217,7 +1217,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1236,9 +1236,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking120",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1247,7 +1247,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1266,7 +1266,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1285,9 +1285,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking128",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1296,7 +1296,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1315,7 +1315,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1334,9 +1334,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking133",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1345,7 +1345,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1364,7 +1364,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1383,9 +1383,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking142",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1394,7 +1394,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1413,7 +1413,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1432,9 +1432,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking156",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1443,7 +1443,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1462,7 +1462,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1481,9 +1481,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking165",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1492,7 +1492,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1511,7 +1511,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1530,9 +1530,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking177",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -1541,7 +1541,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -1560,7 +1560,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1579,9 +1579,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking179",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -1590,7 +1590,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -1609,7 +1609,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1628,9 +1628,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking181",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -1639,7 +1639,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -1658,7 +1658,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1677,9 +1677,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking149",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1688,7 +1688,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1707,7 +1707,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1726,9 +1726,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking185",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -1737,7 +1737,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -1756,7 +1756,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1775,9 +1775,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking152",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1786,7 +1786,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1805,7 +1805,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1824,9 +1824,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking166",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1835,7 +1835,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1854,7 +1854,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1873,9 +1873,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking701",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1884,7 +1884,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1903,7 +1903,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 2,
@@ -1922,9 +1922,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking703",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1933,7 +1933,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -1952,7 +1952,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -1971,9 +1971,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking320",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -1982,7 +1982,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2001,7 +2001,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2020,9 +2020,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking720",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2031,7 +2031,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2050,7 +2050,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2069,9 +2069,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking721",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2080,7 +2080,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2099,7 +2099,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2118,9 +2118,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking722",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2129,7 +2129,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2148,7 +2148,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2167,9 +2167,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking323",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2178,7 +2178,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2197,7 +2197,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2216,9 +2216,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking325",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2227,7 +2227,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2246,7 +2246,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2265,9 +2265,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking101",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2276,7 +2276,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2295,7 +2295,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2314,9 +2314,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking190",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2325,7 +2325,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2344,7 +2344,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2363,9 +2363,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking230",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2374,7 +2374,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2393,7 +2393,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2412,9 +2412,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking191",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2423,7 +2423,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2442,7 +2442,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2461,9 +2461,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking192",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2472,7 +2472,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2491,7 +2491,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2510,9 +2510,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking193",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2521,7 +2521,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2540,7 +2540,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2559,9 +2559,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking195",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2570,7 +2570,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2589,7 +2589,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 2,
@@ -2608,9 +2608,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking240",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2619,7 +2619,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2638,7 +2638,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2657,9 +2657,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking241",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2668,7 +2668,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2687,7 +2687,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2706,9 +2706,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking242",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2717,7 +2717,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2736,7 +2736,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2755,9 +2755,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking340",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2766,7 +2766,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2785,7 +2785,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2804,9 +2804,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking740",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2815,7 +2815,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2834,7 +2834,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2853,9 +2853,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking196",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2864,7 +2864,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2883,7 +2883,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2902,9 +2902,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking802",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -2913,7 +2913,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -2932,7 +2932,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -2951,9 +2951,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking101",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -2963,7 +2963,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -2992,7 +2992,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3011,9 +3011,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking102",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3023,7 +3023,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3052,7 +3052,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3071,9 +3071,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking801",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3083,7 +3083,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3112,7 +3112,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3131,9 +3131,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking103",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3143,7 +3143,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3172,7 +3172,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3191,9 +3191,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking701",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3203,7 +3203,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3232,7 +3232,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3251,9 +3251,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking201",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3263,7 +3263,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3292,7 +3292,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3311,9 +3311,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking802",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3323,7 +3323,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3352,7 +3352,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3371,9 +3371,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking301",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3383,7 +3383,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3412,7 +3412,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3431,9 +3431,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking105",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3443,7 +3443,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3472,7 +3472,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3491,9 +3491,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking106",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3503,7 +3503,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3532,7 +3532,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3551,9 +3551,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking203",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3563,7 +3563,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3592,7 +3592,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3611,9 +3611,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking804",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3623,7 +3623,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3652,7 +3652,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3671,9 +3671,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking110",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3683,7 +3683,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3712,7 +3712,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3731,9 +3731,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking111",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3743,7 +3743,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3772,7 +3772,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3791,9 +3791,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking112",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3803,7 +3803,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3832,7 +3832,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3851,9 +3851,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking113",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -3863,7 +3863,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -3892,7 +3892,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3911,9 +3911,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking250",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -3922,7 +3922,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -3941,7 +3941,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -3960,9 +3960,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking251",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -3971,7 +3971,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -3990,7 +3990,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4009,9 +4009,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking151",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -4020,7 +4020,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -4039,7 +4039,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4058,9 +4058,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking153",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -4069,7 +4069,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -4088,7 +4088,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4107,9 +4107,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking601",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -4119,7 +4119,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -4148,7 +4148,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4167,9 +4167,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking720",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -4179,7 +4179,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -4208,7 +4208,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4227,9 +4227,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking320",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -4239,7 +4239,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -4268,7 +4268,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4287,9 +4287,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking321",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -4299,7 +4299,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -4328,7 +4328,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -4347,9 +4347,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking801",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4359,7 +4359,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4388,7 +4388,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4407,9 +4407,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking101",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4419,7 +4419,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4448,7 +4448,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4467,9 +4467,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking102",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4479,7 +4479,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4508,7 +4508,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4527,9 +4527,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking301",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4539,7 +4539,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4568,7 +4568,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4587,9 +4587,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking103",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4599,7 +4599,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4628,7 +4628,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4647,9 +4647,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking104",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4659,7 +4659,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4688,7 +4688,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4707,9 +4707,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking105",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4719,7 +4719,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4748,7 +4748,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4767,9 +4767,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking106",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4779,7 +4779,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4808,7 +4808,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4827,9 +4827,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking107",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4839,7 +4839,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4868,7 +4868,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4887,9 +4887,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "farmaciaParking601",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "medSupplies",
@@ -4899,7 +4899,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "medSupplies",
@@ -4928,7 +4928,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -4947,9 +4947,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking301",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -4960,7 +4960,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -4999,7 +4999,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5018,9 +5018,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking201",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5031,7 +5031,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5070,7 +5070,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5089,9 +5089,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking801",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5102,7 +5102,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5141,7 +5141,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5160,9 +5160,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking302",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5173,7 +5173,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5212,7 +5212,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5231,9 +5231,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking303",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5244,7 +5244,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5283,7 +5283,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5302,9 +5302,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking202",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5315,7 +5315,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5354,7 +5354,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5373,9 +5373,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking105",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5386,7 +5386,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5425,7 +5425,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5444,9 +5444,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking701",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5457,7 +5457,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5496,7 +5496,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5515,9 +5515,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking207",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5528,7 +5528,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5567,7 +5567,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5586,9 +5586,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking108",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5599,7 +5599,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5638,7 +5638,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5657,9 +5657,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "cornerParking631",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "crunchiesSupplies",
@@ -5670,7 +5670,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "crunchiesSupplies",
@@ -5709,7 +5709,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -4,
                     "max": 1,
@@ -5728,9 +5728,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking901",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -5740,7 +5740,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -5769,7 +5769,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -5788,9 +5788,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking902",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -5800,7 +5800,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -5829,7 +5829,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -5848,9 +5848,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking903",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -5860,7 +5860,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -5889,7 +5889,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -5908,9 +5908,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking901",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -5919,7 +5919,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -5938,7 +5938,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -5957,9 +5957,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "enotecaParking906",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "alcoholSupplies",
@@ -5969,7 +5969,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "alcoholSupplies",
@@ -5998,7 +5998,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6017,9 +6017,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking903",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -6028,7 +6028,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -6047,7 +6047,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6066,9 +6066,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "macelleriaParking904",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "fineFoodSupplies"
@@ -6077,7 +6077,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "fineFoodSupplies"
@@ -6096,7 +6096,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6115,9 +6115,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking901",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -6126,7 +6126,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -6145,7 +6145,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6164,9 +6164,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking902",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -6175,7 +6175,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -6194,7 +6194,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6213,9 +6213,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking901",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -6224,7 +6224,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -6243,7 +6243,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6262,9 +6262,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "abbigliamentoParking903",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "clothesSupplies"
@@ -6273,7 +6273,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "clothesSupplies"
@@ -6292,7 +6292,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,
@@ -6311,9 +6311,9 @@
             "manualAccessPoints": [
                 {
                     "psName": "panificioParking902",
-                    "isInspectSpot": true,
+                    "isInspectSpot": false,
                     "logisticTypesProvided": [
-                        "refundReturns"
+                        
                     ],
                     "logisticTypesReceived": [
                         "pastaSupplies"
@@ -6322,7 +6322,7 @@
             ],
             "sitesFile": "local.sites.json",
             "logisticTypesProvided": [
-                "refundReturns"
+                
             ],
             "logisticTypesReceived": [
                 "pastaSupplies"
@@ -6341,7 +6341,7 @@
                 {
                     "type": "parcelProvider",
                     "logisticTypes": [
-                        "refundReturns"
+                        
                     ],
                     "min": -3,
                     "max": 1,

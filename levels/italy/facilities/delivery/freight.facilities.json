@@ -471,9 +471,9 @@
                 },
                 {
                     "type": "trailerOfferProvider",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -485,9 +485,9 @@
                 },
                 {
                     "type": "trailerOfferReceiver",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -499,9 +499,9 @@
                 },
                 {
                     "type": "trailerOfferProvider",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -513,9 +513,9 @@
                 },
                 {
                     "type": "trailerOfferReceiver",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -592,9 +592,9 @@
                 },
                 {
                     "type": "trailerOfferProvider",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -606,9 +606,9 @@
                 },
                 {
                     "type": "trailerOfferReceiver",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -620,9 +620,9 @@
                 },
                 {
                     "type": "trailerOfferProvider",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -634,9 +634,9 @@
                 },
                 {
                     "type": "trailerOfferReceiver",
-                    "interval": 210,
-                    "min": 0,
-                    "max": 4,
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -664,12 +664,14 @@
                         "freightSupplies",
                         "freight2Supplies",
                         "freight3Supplies",
-                        "tiresSupplies"
+                        "tiresSupplies",
+                "trailerDeliveryConstructionMaterials"
                     ],
                     "logisticTypesReceived": [
                         "freightSupplies",
                         "freight2Supplies",
-                        "freight3Supplies"
+                        "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
                     ]
                 }
             ],
@@ -678,12 +680,14 @@
                 "freightSupplies",
                 "freight2Supplies",
                 "freight3Supplies",
-                "tiresSupplies"
+                "tiresSupplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticTypesReceived": [
                 "freightSupplies",
                 "freight2Supplies",
-                "freight3Supplies"
+                "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
@@ -709,6 +713,62 @@
                     "min": -1,
                     "max": 3,
                     "interval": 120
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
                 }
             ]
         },
@@ -727,12 +787,14 @@
                     "logisticTypesProvided": [
                         "freightSupplies",
                         "freight2Supplies",
-                        "freight3Supplies"
+                        "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
                     ],
                     "logisticTypesReceived": [
                         "freightSupplies",
                         "freight2Supplies",
-                        "freight3Supplies"
+                        "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
                     ]
                 }
             ],
@@ -740,12 +802,14 @@
             "logisticTypesProvided": [
                 "freightSupplies",
                 "freight2Supplies",
-                "freight3Supplies"
+                "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticTypesReceived": [
                 "freightSupplies",
                 "freight2Supplies",
-                "freight3Supplies"
+                "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
@@ -770,6 +834,62 @@
                     "min": -1,
                     "max": 3,
                     "interval": 120
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
                 }
             ]
         },
@@ -788,12 +908,14 @@
                     "logisticTypesProvided": [
                         "freightSupplies",
                         "freight2Supplies",
-                        "freight3Supplies"
+                        "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
                     ],
                     "logisticTypesReceived": [
                         "freightSupplies",
                         "freight2Supplies",
-                        "freight3Supplies"
+                        "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
                     ]
                 }
             ],
@@ -801,12 +923,14 @@
             "logisticTypesProvided": [
                 "freightSupplies",
                 "freight2Supplies",
-                "freight3Supplies"
+                "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticTypesReceived": [
                 "freightSupplies",
                 "freight2Supplies",
-                "freight3Supplies"
+                "freight3Supplies",
+                "trailerDeliveryConstructionMaterials"
             ],
             "logisticMaxItems": 100,
             "logisticGenerators": [
@@ -831,6 +955,62 @@
                     "min": -1,
                     "max": 2,
                     "interval": 120
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigConstructionMaterials",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferProvider",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
+                },
+                {
+                    "type": "trailerOfferReceiver",
+                    "interval": 120,
+                    "min": 1,
+                    "max": 8,
+                    "offerDuration": {
+                        "min": 300,
+                        "max": 600
+                    },
+                    "filter": "bigEmptyTrailers",
+                    "logisticTypes": [
+                        "trailerDeliveryConstructionMaterials"
+                    ]
                 }
             ]
         },
