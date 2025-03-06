@@ -839,7 +839,7 @@
                     "type": "trailerOfferProvider",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -853,7 +853,7 @@
                     "type": "trailerOfferReceiver",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -867,7 +867,7 @@
                     "type": "trailerOfferProvider",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -881,7 +881,7 @@
                     "type": "trailerOfferReceiver",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -960,7 +960,7 @@
                     "type": "trailerOfferProvider",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -974,7 +974,7 @@
                     "type": "trailerOfferReceiver",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -988,7 +988,7 @@
                     "type": "trailerOfferProvider",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
@@ -1002,7 +1002,7 @@
                     "type": "trailerOfferReceiver",
                     "interval": 120,
                     "min": 1,
-                    "max": 8,
+                    "max": 4,
                     "offerDuration": {
                         "min": 300,
                         "max": 600
