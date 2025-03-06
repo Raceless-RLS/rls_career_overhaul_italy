@@ -110,7 +110,7 @@
       ],
 
       "filter":{
-        "whiteList":{"Type":["Car"],"Brand":["Cherrier","Autobello","ETK"]},
+        "whiteList":{"Type":["Car"],"Brand":["Cherrier","Autobello","ETK"],"Config Type":["Stock","Custom"]},
  	       "blackList":{"Type":["Trailer"],"Body Style":["ATV","Buggy"]}
       },
 

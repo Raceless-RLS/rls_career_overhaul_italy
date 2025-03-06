@@ -81,7 +81,7 @@
     },
     "rockCrawlCentral": {
       "bestTime": 55,
-      "reward": 2000,
+      "reward": 4000,
       "checkpointRoad": "rockCrawlCentral",
       "apexOffset": 2,
       "label": "Rock Crawl Central",
