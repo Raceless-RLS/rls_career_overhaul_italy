@@ -79,54 +79,66 @@
         "motorsport"
       ]
     },
-        "rockCrawlCentral": {
-        "bestTime": 55,
-        "reward": 2000,
-        "checkpointRoad": "rockCrawlCentral",
-        "apexOffset": 2,
-        "label": "Rock Crawl Central",
-        "type": [
-          "offroad",
-          "crawl"
-        ]
+    "rockCrawlCentral": {
+      "bestTime": 55,
+      "reward": 2000,
+      "checkpointRoad": "rockCrawlCentral",
+      "apexOffset": 2,
+      "label": "Rock Crawl Central",
+      "type": [
+        "offroad",
+        "crawl"
+      ]
+    },
+    "outroDrift": {
+      "bestTime": 35,
+      "driftGoal": 4000,
+      "reward": 1500,
+      "checkpointRoad": "outroDrift",
+      "label": "Outro Drift Route",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "outroDriftR": {
+      "bestTime": 35,
+      "driftGoal": 4000,
+      "reward": 1500,
+      "reverse": true,
+      "checkpointRoad": "outroDrift",
+      "label": "Outro Drift Route Reverse",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "castellettoDrift": {
+      "bestTime": 35,
+      "driftGoal": 4000,
+      "reward": 1500,
+      "checkpointRoad": "castellettoDrift",
+      "label": "Castelletto Drift",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "castellettoDriftR": {
+      "bestTime": 35,
+      "driftGoal": 4000,
+      "reward": 1500,
+      "reverse": true,
+      "checkpointRoad": "castellettoDrift",
+      "label": "Castelletto Drift Reverse",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
     }
-  },
-  "outroDrift": {
-  "bestTime": 35,
-  "driftGoal": 4000,
-  "reward": 1500,
-  "checkpointRoad": "outroDrift",
-  "label": "Outro Drift Route",
-  "type": ["motorsport", "drift"],
-  "minCheckpointDistance": 20
-},
-"outroDriftR": {
-  "bestTime": 35,
-  "driftGoal": 4000,
-  "reward": 1500,
-  "reverse": true,
-  "checkpointRoad": "outroDrift",
-  "label": "Outro Drift Route Reverse",
-  "type": ["motorsport", "drift"],
-  "minCheckpointDistance": 20
-},
-"castellettoDrift": {
-"bestTime": 35,
-"driftGoal": 4000,
-"reward": 1500,
-"checkpointRoad": "castellettoDrift",
-"label": "Castelletto Drift",
-"type": ["motorsport", "drift"],
-"minCheckpointDistance": 20
-},
-"castellettoDriftR": {
-"bestTime": 35,
-"driftGoal": 4000,
-"reward": 1500,
-"reverse": true,
-"checkpointRoad": "castellettoDrift",
-"label": "Castelletto Drift Reverse",
-"type": ["motorsport", "drift"],
-"minCheckpointDistance": 20
-}
+  }
 }
