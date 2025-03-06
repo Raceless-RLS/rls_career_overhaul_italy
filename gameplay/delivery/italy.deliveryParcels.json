@@ -60,7 +60,6 @@
   "PastaReturn": {
     "names": [
       "Returns"
-
     ],
     "logisticTypes": [
       "refundReturns"
@@ -132,7 +131,8 @@
       "clothesSupplies"
     ],
     "slots": [
-      64,128
+      64,
+      128
     ],
     "cargoType": "parcel",
     "rarity": 1,
@@ -594,7 +594,6 @@
       "large": 0
     }
   },
-
   "CropsParcel": {
     "names": [
       "Wheat",
@@ -698,7 +697,9 @@
       "partSwapSupplies"
     ],
     "slots": [
-      8,16,32
+      8,
+      16,
+      32
     ],
     "cargoType": "parcel",
     "rarity": 1,
