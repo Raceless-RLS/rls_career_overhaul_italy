@@ -110,26 +110,26 @@
       ],
 
       "filter":{
-        "whiteList":{"Type":["Car"],"Brand":["Cherrier","Autobello","ETK"],"Config Type":["Stock","Custom"]},
+        "whiteList":{"Type":["Car"],"Brand":["Cherrier","Autobello","ETK","Civetta"],"Config Type":["Factory"]},
  	       "blackList":{"Type":["Trailer"],"Body Style":["ATV","Buggy"]}
       },
 
       "subFilters": [
         {
           "probability":1,
-          "whiteList":{"Years": {"min":1950, "max":1973},"Mileage":{"min":4800, "max":132000422},"Value":{"min":120000}}
+          "whiteList":{"Years": {"min":1950, "max":1973},"Mileage":{"min":4800, "max":132000422},"Value":{"min":100000}}
         },
         {
           "probability":2,
-          "whiteList":{"Years": {"min":1973, "max":2010},"Mileage":{"min":4800, "max":132000422},"Value":{"min":120000}}
+          "whiteList":{"Years": {"min":1973, "max":2010},"Mileage":{"min":4800, "max":132000422},"Value":{"min":100000}}
         },
         {
           "probability":3,
-          "whiteList":{"Years": {"min":2010},"Mileage":{"min":4800, "max":18000000},"Value":{"min":120000}}
+          "whiteList":{"Years": {"min":2010},"Mileage":{"min":4800, "max":18000000},"Value":{"min":100000}}
         },
         {
           "probability":4,
-          "whiteList":{"Years": {"min":2017},"Mileage":{"min":4800, "max":50000},"Value":{"min":120000}}
+          "whiteList":{"Years": {"min":2017},"Mileage":{"min":4800, "max":50000},"Value":{"min":100000}}
         }
       ],
 
