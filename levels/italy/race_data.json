@@ -91,9 +91,9 @@
       ]
     },
     "outroDrift": {
-      "bestTime": 35,
-      "driftGoal": 4000,
-      "reward": 1500,
+      "bestTime": 120,
+      "driftGoal": 10000,
+      "reward": 2000,
       "checkpointRoad": "outroDrift",
       "label": "Outro Drift Route",
       "type": [
@@ -103,9 +103,9 @@
       "minCheckpointDistance": 20
     },
     "outroDriftR": {
-      "bestTime": 35,
-      "driftGoal": 4000,
-      "reward": 1500,
+      "bestTime": 120,
+      "driftGoal": 10000,
+      "reward": 2000,
       "reverse": true,
       "checkpointRoad": "outroDrift",
       "label": "Outro Drift Route Reverse",
@@ -116,9 +116,9 @@
       "minCheckpointDistance": 20
     },
     "castellettoDrift": {
-      "bestTime": 35,
-      "driftGoal": 4000,
-      "reward": 1500,
+      "bestTime": 260,
+      "driftGoal": 8000,
+      "reward": 2500,
       "checkpointRoad": "castellettoDrift",
       "label": "Castelletto Drift",
       "type": [
@@ -128,9 +128,9 @@
       "minCheckpointDistance": 20
     },
     "castellettoDriftR": {
-      "bestTime": 35,
-      "driftGoal": 4000,
-      "reward": 1500,
+      "bestTime": 260,
+      "driftGoal": 8000,
+      "reward": 2500,
       "reverse": true,
       "checkpointRoad": "castellettoDrift",
       "label": "Castelletto Drift Reverse",
