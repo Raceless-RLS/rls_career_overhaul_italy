@@ -6,7 +6,7 @@
             "name": "Pasta Port Storage",
             "description": "Somehow kept dry...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -42,7 +42,7 @@
             "name": "Return Port Storage",
             "description": "Nobody knows where these go next...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Norte_Freight_Supplies_Storage.png",
             "manualAccessPoints": [
                 {
@@ -78,7 +78,7 @@
             "name": "Fine Food Port Storage",
             "description": "Somehow kept dry...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -127,7 +127,7 @@
             "name": "clothes Supplies Port Storage",
             "description": "Should just shop here.",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -163,7 +163,7 @@
             "name": "Alcohol Supplies Port Storage",
             "description": "There is no license for this?",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -199,7 +199,7 @@
             "name": "Tasti-Cola Supplies Port Storage",
             "description": "How come they get the fancy door?",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -235,7 +235,7 @@
             "name": "Crunchies Supplies Port Storage",
             "description": "This must be some good cereal.",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Alcohol__Clothes__Crunchies__Fine_Food_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -271,7 +271,7 @@
             "name": "Medical Supplies Port Storage",
             "description": "Big warehouse for a small product",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Cosmetic_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -307,7 +307,7 @@
             "name": "Cosmetic Supplies Port Storage",
             "description": "I thought these were made locally...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Cosmetic_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -343,7 +343,7 @@
             "name": "Mechanical Supplies Port Storage",
             "description": "Aftermarket, OEM, it all comes from the same place...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Mechanical_Supplies_Port_Storage.png",
             "manualAccessPoints": [
                 {
@@ -568,7 +568,7 @@
             "name": "Norte Freight Supplies Port Storage",
             "description": "Calling all truckers...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Norte_Freight_Supplies_Storage.png",
             "manualAccessPoints": [
                 {
@@ -728,7 +728,7 @@
             "name": "Lucera Freight Supplies Storage",
             "description": "I guess this is more long term storage",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Lucera_Freight_Storage.png",
             "manualAccessPoints": [
                 {
@@ -849,7 +849,7 @@
             "name": "Airport Freight Supplies Storage",
             "description": "Must be going somewhere important",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Airport_Freight_Supplies_Storage.png",
             "manualAccessPoints": [
                 {
@@ -973,7 +973,7 @@
             "name": "Fastello Freight Supplies Storage",
             "description": "Must have a big basement...",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Fastello_Freight_Supplies_Storage.png",
             "manualAccessPoints": [
                 {
@@ -1094,7 +1094,7 @@
             "name": "Portino Freight Supplies Storage",
             "description": "No clue where they are going to put this stuff.",
             "facilityInformation": "",
-            "associatedOrganization": "belascoCityGarage",
+            "associatedOrganization": "",
             "preview": "facilities/Portino_Freight_Storage.png",
             "manualAccessPoints": [
                 {
