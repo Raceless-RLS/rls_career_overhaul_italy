@@ -1,5 +1,5 @@
 return {
     onGetMaps = function()
-        extensions.hook("returnCompatibleMap", "italy")
+        extensions.hook("returnCompatibleMap", {["italy"] = "Italy"})
     end
 }
