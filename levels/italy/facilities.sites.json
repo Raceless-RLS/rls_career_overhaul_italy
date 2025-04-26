@@ -19,7 +19,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking1",
-      "oldId":2810,
+      "oldId":10,
       "pos":[
         675.1819458,
         878.9731445,
@@ -55,7 +55,7 @@
       },
       "isMultiSpot":false,
       "name":"uncleParking2",
-      "oldId":2811,
+      "oldId":11,
       "pos":[
         674.628418,
         883.2415771,
@@ -91,7 +91,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto1",
-      "oldId":2812,
+      "oldId":12,
       "pos":[
         -1114.896973,
         942.5435791,
@@ -127,7 +127,7 @@
       },
       "isMultiSpot":false,
       "name":"claudioAuto2",
-      "oldId":2813,
+      "oldId":13,
       "pos":[
         -1114.129395,
         947.7677002,
@@ -163,7 +163,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking2",
-      "oldId":2814,
+      "oldId":14,
       "pos":[
         216.677597,
         -321.8963928,
@@ -199,7 +199,7 @@
       },
       "isMultiSpot":false,
       "name":"garantitoAutoParking1",
-      "oldId":2815,
+      "oldId":15,
       "pos":[
         217.1501617,
         -320.9792786,
@@ -235,7 +235,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking1",
-      "oldId":2816,
+      "oldId":16,
       "pos":[
         910.5704346,
         1306.254761,
@@ -271,7 +271,7 @@
       },
       "isMultiSpot":false,
       "name":"temerariaAutoParking2",
-      "oldId":2817,
+      "oldId":17,
       "pos":[
         910.6020508,
         1302.440674,
@@ -307,7 +307,7 @@
       },
       "isMultiSpot":false,
       "name":"FBXAutoParking1",
-      "oldId":2818,
+      "oldId":18,
       "pos":[
         1200.904175,
         -827.4435425,
@@ -343,7 +343,7 @@
       },
       "isMultiSpot":false,
       "name":"portinoAutoParking1",
-      "oldId":2819,
+      "oldId":19,
       "pos":[
         -703.442688,
         -1346.016724,
@@ -379,7 +379,7 @@
       },
       "isMultiSpot":false,
       "name":"biancoAutoParking1",
-      "oldId":2820,
+      "oldId":20,
       "pos":[
         -1810.512695,
         1516.347778,
@@ -415,7 +415,7 @@
       },
       "isMultiSpot":false,
       "name":"carlinoAutoParking1",
-      "oldId":2821,
+      "oldId":21,
       "pos":[
         750.1793213,
         411.3665466,
@@ -451,7 +451,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking1",
-      "oldId":2822,
+      "oldId":22,
       "pos":[
         363.609436,
         1522.466309,
@@ -487,7 +487,7 @@
       },
       "isMultiSpot":false,
       "name":"portoAutoParking2",
-      "oldId":2823,
+      "oldId":23,
       "pos":[
         384.229126,
         1532.522705,
@@ -523,7 +523,7 @@
       },
       "isMultiSpot":false,
       "name":"divisionLaneParking1",
-      "oldId":2825,
+      "oldId":24,
       "pos":[
         307.4429321,
         -252.6042023,
@@ -559,7 +559,7 @@
       },
       "isMultiSpot":false,
       "name":"divisionLaneParking2",
-      "oldId":2826,
+      "oldId":25,
       "pos":[
         309.2906494,
         -249.7464447,
@@ -595,7 +595,7 @@
       },
       "isMultiSpot":false,
       "name":"tristanLaneParking1",
-      "oldId":2827,
+      "oldId":26,
       "pos":[
         -1743.227661,
         1279.296997,
@@ -631,7 +631,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking1",
-      "oldId":2828,
+      "oldId":27,
       "pos":[
         -1773.566528,
         -92.9996109,
@@ -667,7 +667,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking2",
-      "oldId":2829,
+      "oldId":28,
       "pos":[
         -1768.295288,
         -88.1111145,
@@ -703,7 +703,7 @@
       },
       "isMultiSpot":false,
       "name":"racelessWayParking3",
-      "oldId":2830,
+      "oldId":29,
       "pos":[
         -1761.577148,
         -100.6481705,
@@ -739,7 +739,7 @@
       },
       "isMultiSpot":false,
       "name":"sumoStreetParking1",
-      "oldId":2831,
+      "oldId":30,
       "pos":[
         70.77732086,
         -262.4403687,
@@ -775,7 +775,7 @@
       },
       "isMultiSpot":false,
       "name":"sumoStreetParking2",
-      "oldId":2832,
+      "oldId":31,
       "pos":[
         70.26460266,
         -259.402771,
@@ -811,7 +811,7 @@
       },
       "isMultiSpot":false,
       "name":"shiftTabCourtParking1",
-      "oldId":2833,
+      "oldId":32,
       "pos":[
         1818.283691,
         -1350.958984,
@@ -847,7 +847,7 @@
       },
       "isMultiSpot":false,
       "name":"shiftTabCourtParking2",
-      "oldId":2834,
+      "oldId":33,
       "pos":[
         1821.472046,
         -1351.877197,
@@ -883,7 +883,7 @@
       },
       "isMultiSpot":false,
       "name":"mcgroryAveParking1",
-      "oldId":2835,
+      "oldId":34,
       "pos":[
         1204.145142,
         1044.613159,
@@ -919,7 +919,7 @@
       },
       "isMultiSpot":false,
       "name":"mcgroryAveParking2",
-      "oldId":2836,
+      "oldId":35,
       "pos":[
         1202.586548,
         1047.572998,
@@ -955,7 +955,7 @@
       },
       "isMultiSpot":false,
       "name":"mcgroryAveParking3",
-      "oldId":2837,
+      "oldId":36,
       "pos":[
         1201.311523,
         1054.275635,
@@ -991,7 +991,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking1",
-      "oldId":2838,
+      "oldId":37,
       "pos":[
         -500.1749268,
         703.2011719,
@@ -1027,7 +1027,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking2",
-      "oldId":2839,
+      "oldId":38,
       "pos":[
         -494.6660156,
         702.9291992,
@@ -1063,7 +1063,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking3",
-      "oldId":2840,
+      "oldId":39,
       "pos":[
         -489.7022705,
         703.0283203,
@@ -1099,7 +1099,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking4",
-      "oldId":2841,
+      "oldId":40,
       "pos":[
         -484.7804565,
         702.9908447,
@@ -1135,7 +1135,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking5",
-      "oldId":2842,
+      "oldId":41,
       "pos":[
         -479.6063843,
         703.1065063,
@@ -1171,7 +1171,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking6",
-      "oldId":2843,
+      "oldId":42,
       "pos":[
         -494.5579834,
         711.7642212,
@@ -1207,7 +1207,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking7",
-      "oldId":2844,
+      "oldId":43,
       "pos":[
         -489.9474487,
         711.9854736,
@@ -1243,7 +1243,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking8",
-      "oldId":2845,
+      "oldId":44,
       "pos":[
         -485.7969666,
         711.7936401,
@@ -1279,7 +1279,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking9",
-      "oldId":2846,
+      "oldId":45,
       "pos":[
         -481.1260986,
         711.9118652,
@@ -1315,7 +1315,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking10",
-      "oldId":2847,
+      "oldId":46,
       "pos":[
         -503.425293,
         712.0463867,
@@ -1351,7 +1351,7 @@
       },
       "isMultiSpot":false,
       "name":"villaScuderiaParking11",
-      "oldId":2848,
+      "oldId":47,
       "pos":[
         -512.1554565,
         709.1855469,
@@ -1387,7 +1387,7 @@
       },
       "isMultiSpot":false,
       "name":"poliziaAutoParking1",
-      "oldId":2850,
+      "oldId":48,
       "pos":[
         173.4388885,
         1402.942993,
@@ -1403,6 +1403,42 @@
         3.25,
         8,
         4
+      ],
+      "spotAmount":1,
+      "spotDirection":"Left",
+      "spotOffset":0,
+      "spotRotation":0
+    },
+    {
+      "color":[
+        1,
+        1,
+        1
+      ],
+      "customFields":{
+        "names":{},
+        "tags":{},
+        "types":{},
+        "values":{}
+      },
+      "isMultiSpot":false,
+      "name":"onlineParking",
+      "oldId":4020,
+      "pos":[
+        367.7120361,
+        1438.439575,
+        158.0062714
+      ],
+      "rot":[
+        0,
+        0,
+        0,
+        1
+      ],
+      "scl":[
+        2.5,
+        6,
+        3
       ],
       "spotAmount":1,
       "spotDirection":"Left",
@@ -1437,7 +1473,7 @@
         "values":{}
       },
       "name":"uncleGarage",
-      "oldId":2802,
+      "oldId":2,
       "top":{
         "active":false,
         "normal":[
@@ -1500,7 +1536,7 @@
         "values":{}
       },
       "name":"divisionLaneGarage",
-      "oldId":2803,
+      "oldId":3,
       "top":{
         "active":false,
         "normal":[
@@ -1583,7 +1619,7 @@
         "values":{}
       },
       "name":"tristanLaneGarage",
-      "oldId":2804,
+      "oldId":4,
       "top":{
         "active":false,
         "normal":[
@@ -1671,7 +1707,7 @@
         "values":{}
       },
       "name":"racelessWayGarage",
-      "oldId":2805,
+      "oldId":5,
       "top":{
         "active":false,
         "normal":[
@@ -1739,7 +1775,7 @@
         "values":{}
       },
       "name":"sumoStreetGarage",
-      "oldId":2806,
+      "oldId":6,
       "top":{
         "active":false,
         "normal":[
@@ -1802,7 +1838,7 @@
         "values":{}
       },
       "name":"shiftTabCourtGarage",
-      "oldId":2807,
+      "oldId":7,
       "top":{
         "active":false,
         "normal":[
@@ -1865,7 +1901,7 @@
         "values":{}
       },
       "name":"mcgroryAveGarage",
-      "oldId":2808,
+      "oldId":8,
       "top":{
         "active":false,
         "normal":[
@@ -1928,7 +1964,7 @@
         "values":{}
       },
       "name":"villaScuderiaGarage",
-      "oldId":2809,
+      "oldId":9,
       "top":{
         "active":false,
         "normal":[
