@@ -1,3 +1,6 @@
+{"name":"Rock Crawl Central","class":"SimGroup","__parent":"FREs"}
+{"name":"Outro Drift Reverse","class":"SimGroup","__parent":"FREs"}
+{"name":"Outro Drift","class":"SimGroup","__parent":"FREs"}
 {"name":"MountainHillClimb","class":"SimGroup","__parent":"FREs"}
 {"name":"MountainSideDescent","class":"SimGroup","__parent":"FREs"}
 {"name":"Norte_Rally_Stage_1","class":"SimGroup","__parent":"FREs"}
