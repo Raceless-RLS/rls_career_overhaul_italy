@@ -1,0 +1,144 @@
+{
+  "races": {
+    "mountainClimb": {
+      "bestTime": 60,
+      "reward": 2000,
+      "checkpointRoad": "mountainClimb",
+      "reverse": true,
+      "apexOffset": 2,
+      "label": "Mountain Side Climb",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "mountainDescent": {
+      "bestTime": 55,
+      "reward": 2000,
+      "checkpointRoad": "mountainClimb",
+      "apexOffset": 1,
+      "label": "Mountain Side Descent",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "norteRallyStage1": {
+      "bestTime": 120,
+      "reward": 2000,
+      "checkpointRoad": "norteRallyStage1",
+      "apexOffset": 1,
+      "label": "Stage 1 of the Norte Rally",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "norteRallyStage2": {
+      "bestTime": 110,
+      "reward": 2000,
+      "checkpointRoad": "norteRallyStage2",
+      "apexOffset": 1,
+      "label": "Stage 2 of the Norte Rally",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "norteRallyStage3": {
+      "bestTime": 180,
+      "reward": 2500,
+      "checkpointRoad": "norteRallyStage3",
+      "apexOffset": 1,
+      "label": "Stage 3 of the Norte Rally",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "norteRallyStage4": {
+      "bestTime": 165,
+      "reward": 2250,
+      "checkpointRoad": "norteRallyStage4",
+      "apexOffset": 1,
+      "label": "Stage 4 of the Norte Rally",
+      "type": [
+        "offroad",
+        "rally"
+      ]
+    },
+    "norteOutskirtsCircuit": {
+      "bestTime": 90,
+      "hotlap": 85,
+      "reward": 1750,
+      "checkpointRoad": "norteOutskirtsCircuit",
+      "apexOffset": 1,
+      "label": "Norte Outskirts Circuit",
+      "reverse": true,
+      "type": [
+        "motorsport"
+      ]
+    },
+    "rockCrawlCentral": {
+      "bestTime": 55,
+      "reward": 4000,
+      "checkpointRoad": "rockCrawlCentral",
+      "apexOffset": 2,
+      "label": "Rock Crawl Central",
+      "type": [
+        "offroad",
+        "crawl"
+      ]
+    },
+    "outroDrift": {
+      "bestTime": 120,
+      "driftGoal": 10000,
+      "reward": 2000,
+      "checkpointRoad": "outroDrift",
+      "label": "Outro Drift Route",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "outroDriftR": {
+      "bestTime": 120,
+      "driftGoal": 10000,
+      "reward": 2000,
+      "reverse": true,
+      "checkpointRoad": "outroDrift",
+      "label": "Outro Drift Route Reverse",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "castellettoDrift": {
+      "bestTime": 260,
+      "driftGoal": 8000,
+      "reward": 2500,
+      "checkpointRoad": "castellettoDrift",
+      "label": "Castelletto Drift",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    },
+    "castellettoDriftR": {
+      "bestTime": 260,
+      "driftGoal": 8000,
+      "reward": 2500,
+      "reverse": true,
+      "checkpointRoad": "castellettoDrift",
+      "label": "Castelletto Drift Reverse",
+      "type": [
+        "motorsport",
+        "drift"
+      ],
+      "minCheckpointDistance": 20
+    }
+  }
+}
