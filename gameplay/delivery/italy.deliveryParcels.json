@@ -2,10 +2,7 @@
   "PastaParcel": {
     "names": [
       "Pasta",
-      "Pasta Supplies",
-      "Pasta Oven",
-      "Pasta Sauce",
-      "Dried Pasta"
+      "Pasta Supplies"
     ],
     "logisticTypes": [
       "pastaSupplies"
@@ -34,7 +31,7 @@
   },
   "PastaFlourParcel": {
     "names": [
-      "Flour"
+      "flour"
     ],
     "logisticTypes": [
       "pastaSupplies"
@@ -127,12 +124,8 @@
     "names": [
       "Clothes",
       "Shoes",
-      "Hats",
-      "Gloves",
-      "Jackets",
-      "Scarves",
-      "Socks",
-      "Pants"
+      "Clothes",
+      "Jackets"
     ],
     "logisticTypes": [
       "clothesSupplies"
@@ -166,13 +159,7 @@
     "names": [
       "Wine",
       "Liquor",
-      "Beer",
-      "Gin",
-      "Whiskey",
-      "Vodka",
-      "Rum",
-      "Tequila",
-      "Moonshine"
+      "beer"
     ],
     "logisticTypes": [
       "alcoholSupplies"
@@ -333,10 +320,7 @@
   },
   "carPartsLightParcel": {
     "names": [
-      "Car Batteries",
-      "Headlights",
-      "Taillights",
-      "Car Accessories",
+      "Wheels",
       "Brake Parts",
       "Suspension Parts",
       "Misc Car Parts",
@@ -411,9 +395,7 @@
   "tiresParcel": {
     "names": [
       "Wheels",
-      "Tires",
-      "Car Jacks",
-      "Air Pumps"
+      "Tires"
     ],
     "logisticTypes": [
       "tiresSupplies"
@@ -456,8 +438,7 @@
   "freightParcel": {
     "names": [
       "Maintenance Parts",
-      "Construction Supplies",
-      "Heavy Duty Drills"
+      "Construction Supplies"
     ],
     "logisticTypes": [
       "freightSupplies"
@@ -619,9 +600,7 @@
       "Olives",
       "Grapes",
       "Fruit",
-      "Rice",
-      "Salumi",
-      "Frozen Pizza"
+      "Rice"
     ],
     "logisticTypes": [
       "CropsSupplies"
@@ -681,9 +660,7 @@
   "farmSuppliesParcel": {
     "names": [
       "Farm Supplies",
-      "Fertilizer",
-      "Tractor Parts",
-      "Farm Equipment"
+      "Fertilizer"
     ],
     "logisticTypes": [
       "farmSupplies"
@@ -711,27 +688,21 @@
       "large": 0.1
     }
   },
-
   "partSwapParcel": {
     "names": [
       "Small Parts",
-      "Misc Parts",
-      "Small Tools",
-      "Small Electronics",
-      "Letters",
-      "Small Postal Packages"
+      "Misc Parts"
     ],
     "logisticTypes": [
       "partSwapSupplies"
     ],
     "slots": [
-      1,
-      2,
-      4,
-      8
+      8,
+      16,
+      32
     ],
     "cargoType": "parcel",
-    "rarity": 0.25,
+    "rarity": 1,
     "worth": 1,
     "generationChance": 0.3,
     "duplicationChance": [
@@ -741,10 +712,9 @@
     ],
     "offerDuration": 360,
     "weight": [
-      1,
-      2,
-      3,
-      4
+      10,
+      25,
+      40
     ],
     "modChance": {
       "post": 0.10
