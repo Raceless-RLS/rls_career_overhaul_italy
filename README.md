@@ -41,10 +41,10 @@ Coming soon...
 
 - **Norte Rally Stage 1**
 
-    - **Description**: A timed rally event with a mix of dirt and paved roads.
-    - **Requirements**:
-        - **Target Time**: **120 seconds**
-        - **Reward**: **\$2,000**
+  - **Description**: A timed rally event with a mix of dirt and paved roads.
+  - **Requirements**:
+    - **Target Time**: **120 seconds**
+    - **Reward**: **\$2,000**
 
 - **Norte Rally Stage 2**
 
@@ -69,42 +69,40 @@ Coming soon...
 
 #### Circuit Events
 
-- **Norte Circuit**
-
-    - **Description**: A timed circuit event around the Italian town of Norte.
-    - **Requirements**:
-        - **Target Time**: **90 seconds**
+ - **Norte Circuit**: A timed circuit event around the Italian town of Norte.
+ - **Requirements**:
+    - **Target Time**: **90 seconds**
         - **Hotlap Time**: **85 seconds**
-        - **Reward**: **\$1,750**
+    - **Reward**: **\$1,750**
 
 #### Rock Crawl
 
 - **Central Rock Crawl**:
 
-    - **Description**: A large rock crawl carved into the middle of an Italian hill.
-    - **Requirements**:
-        - **Target Time**: **55 seconds**
-        - **Reward**: **\$4,000**
+  - **Description**: A large rock crawl carved into the middle of an Italian hill.
+  - **Requirements**:
+    - **Target Time**: **55 seconds**
+    - **Reward**: **\$4,000**
 
 #### Drift Events
 
  - **Castelletto Drift**
 
-    - **Description**:
-    - **Requirements**:
-        - **Target Time**: **260 seconds**
-        - **Drift Score**: **8,000**
-        - **Reward**: **\$2,500**
+  - **Description**:
+  - **Requirements**:
+    - **Target Time**: **260 seconds**
+    - **Drift Score**: **8,000**
+    - **Reward**: **\$2,500**
   - **Note**: Can be done in reverse.
 
    - **Outro Drift**
 
-    - **Description**:
-    - **Requirements**:
-        - **Target Time**: **120 seconds**
-        - **Drift Score**: **10,000**
-        - **Reward**: **\$2,000**
-    - **Note**: Can be done in reverse.
+  - **Description**:
+  - **Requirements**:
+    - **Target Time**: **120 seconds**
+    - **Drift Score**: **10,000**
+    - **Reward**: **\$2,000**
+  - **Note**: Can be done in reverse.
 
 ### Freeroam Repo Missions
 
@@ -161,7 +159,7 @@ Coming soon...
 
  Experience dynamic car meets across various locations in the game:
 
-#### Meet Locations
+ #### Meet Locations
 
  Coming soon
 
