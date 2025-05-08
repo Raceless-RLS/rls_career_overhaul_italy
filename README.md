@@ -95,9 +95,9 @@ Coming soon...
         - **Target Time**: **260 seconds**
         - **Drift Score**: **8,000**
         - **Reward**: **\$2,500**
-  - **Note**: Can be done in reverse.
+    - **Note**: Can be done in reverse.
 
-   - **Outro Drift**
+- **Outro Drift**
 
     - **Description**:
     - **Requirements**:
