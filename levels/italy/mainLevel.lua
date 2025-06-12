@@ -12,12 +12,12 @@ local lightRegistry = {
 }
 
 local isDaytime = true
-local BASE_ACTIVATION_DISTANCE = 75
+local BASE_ACTIVATION_DISTANCE = 150
 local VELOCITY_SCALE_FACTOR = 7
 local MIN_VELOCITY_THRESHOLD = 5
 local LIGHT_PERSISTENCE_TIME = 3.0
 local CAMERA_VIEW_ANGLE = 0.5
-local MIN_VIEW_DISTANCE = 500
+local MIN_VIEW_DISTANCE = 750
 local FORWARD_PERSISTENCE_MULTIPLIER = 2.0
 local initialized = false
 local updateTimer = 0
